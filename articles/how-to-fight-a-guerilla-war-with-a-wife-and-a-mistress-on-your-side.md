@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/3cea3d0973de
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/958
 title: How To Fight a Guerilla War With a Wife and a Mistress On Your Side
 subtitle: 5/18/12
 slug: how-to-fight-a-guerilla-war-with-a-wife-and-a-mistress-on-your-side

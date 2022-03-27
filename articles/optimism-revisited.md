@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/674570561b17
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/803
 title: Optimism Revisited
 subtitle: sunriseeast — 09–14–2011
 slug: optimism-revisited

@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/a941401be1c5
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/742
 title: Visiting Chicago
 subtitle: Posted on college confidential 07–09–2011
 slug: visiting-chicago

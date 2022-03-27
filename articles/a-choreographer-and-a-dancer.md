@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/814ab68a0ff1
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/1226
 title: A Choreographer And A Dancer
 subtitle: 1/21/12
 slug: a-choreographer-and-a-dancer

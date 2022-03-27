@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/2174e29af358
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/504
 title: On Writing and Exes
 subtitle: 
 slug: on-writing-and-exes

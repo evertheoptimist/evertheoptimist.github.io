@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/71f86dfa509e
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/871
 title: The Curley Red Haired Inner Demon
 subtitle: sunriseeast — 09–20–2011
 slug: the-curley-red-haired-inner-demon

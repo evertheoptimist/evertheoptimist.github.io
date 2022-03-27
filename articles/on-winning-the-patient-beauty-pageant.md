@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/8aff8ecbe6a9
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/372
 title: On Winning the Patient Beauty Pageant
 subtitle: WEDNESDAY, JANUARY 12, 2011 10:57 AM, EST
 slug: on-winning-the-patient-beauty-pageant

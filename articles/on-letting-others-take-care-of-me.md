@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/ea53fcce206e
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/564
 title: On Letting Others Take Care of Me
 subtitle: AmicoFollow
 slug: on-letting-others-take-care-of-me

@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/1d4dadbc3c1d
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/269
 title: Wig Shopping
 subtitle: Yesterday, I went on a wig shopping.
 slug: wig-shopping

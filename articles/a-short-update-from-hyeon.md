@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/6f2f359950fb
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/1875
 title: A Short Update From Hyeon
 subtitle: 8/31/12
 slug: a-short-update-from-hyeon

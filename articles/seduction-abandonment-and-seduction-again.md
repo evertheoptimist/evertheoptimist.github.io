@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/589b0d12c246
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/1114
 title: Seduction, Abandonment, and Seduction Again
 subtitle: Email to friends and family, 12/11/11
 slug: seduction-abandonment-and-seduction-again

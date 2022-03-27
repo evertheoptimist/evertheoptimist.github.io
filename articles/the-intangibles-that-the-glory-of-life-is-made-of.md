@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/5a8088347d16
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/1357
 title: The Intangibles That The Glory Of Life Is Made Of
 subtitle: Today was a beautiful day! A fit day for me to regain my posture. I feel silly and sheepish for being morose last few days. Usually, it…
 slug: the-intangibles-that-the-glory-of-life-is-made-of

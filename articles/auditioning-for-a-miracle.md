@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/c750f3525275
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/550
 title: Auditioning for a Miracle
 subtitle: 
 slug: auditioning-for-a-miracle

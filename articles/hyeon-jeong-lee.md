@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/2abf92bcc245
+srcurl: https://talk.collegeconfidential.com/t/the-writings-of-sunriseeast/1830125
 title: Hyeon Jeong Lee
 subtitle: A note from Amico, the editor.
 slug: hyeon-jeong-lee

@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/45716a455e5a
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/507
 title: Five Hundred Impatiens and a Thousand Bulbs
 subtitle: Email message to friends and family 3/5/11
 slug: five-hundred-impatiens-and-a-thousand-bulbs

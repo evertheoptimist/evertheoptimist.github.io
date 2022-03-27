@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/969577946a9f
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/958
 title: The Drug of My Choice, My Comfort Food
 subtitle: Email 10/25/11
 slug: the-drug-of-my-choice-my-comfort-food

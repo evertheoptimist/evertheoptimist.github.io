@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/b7327b922a0
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/2816
 title: Days From the End
 subtitle: Jan 28, 2013
 slug: days-from-the-end

@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/1c4d9fd30e53
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554
 title: The Day before Surgery
 subtitle: Email to friends
 slug: the-day-before-surgery

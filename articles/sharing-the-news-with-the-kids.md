@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/a5e9f42e9743
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/315
 title: Sharing the News with the Kids
 subtitle: Saturday December 11, 2010.
 slug: sharing-the-news-with-the-kids

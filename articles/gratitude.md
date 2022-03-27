@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/3f20cc24796e
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/970
 title: Gratitude
 subtitle: Postings from college confidential
 slug: gratitude

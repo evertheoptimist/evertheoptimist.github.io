@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/6ba644febbd9
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/160
 title: Surgery is Over
 subtitle: THURSDAY, DECEMBER 16, 2010; email to friends
 slug: surgery-is-over

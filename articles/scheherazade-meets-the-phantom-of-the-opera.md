@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/165c85e89217
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/1644
 title: Scheherazade Meets The Phantom Of The Opera
 subtitle: Email 8/6/12
 slug: scheherazade-meets-the-phantom-of-the-opera

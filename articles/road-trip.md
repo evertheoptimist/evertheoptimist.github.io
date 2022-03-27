@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/d5f1188f953f
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/713
 title: Road Trip
 subtitle: Two days before I was scheduled to have an operation, I went to a bookstore to buy a few interesting pieces to read while I am recovering…
 slug: road-trip

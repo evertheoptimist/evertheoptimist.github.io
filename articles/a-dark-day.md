@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/d5bae876c111
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/216
 title: A Dark Day
 subtitle: Posting to collegeconfidential.com
 slug: a-dark-day

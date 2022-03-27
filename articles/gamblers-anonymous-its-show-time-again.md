@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/daf444111b7e
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/1540
 title: Gamblers’ Anonymous? It’s Show Time Again!
 subtitle: 6/24/12
 slug: gamblers-anonymous-its-show-time-again

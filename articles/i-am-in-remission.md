@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/6f53738875ea
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/653
 title: I am in Remission!!!!!
 subtitle: AmicoFollow
 slug: i-am-in-remission

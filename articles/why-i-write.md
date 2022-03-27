@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/3c52e575027
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/1232
 title: Why I Write
 subtitle: sunriseeast — 01–21–2012 10:51 AM
 slug: why-i-write

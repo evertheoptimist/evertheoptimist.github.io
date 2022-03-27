@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/1cee06ff9ed1
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/439
 title: Even an oyster deserves a secret hideout.
 subtitle: 
 slug: even-an-oyster-deserves-a-secret-hideout

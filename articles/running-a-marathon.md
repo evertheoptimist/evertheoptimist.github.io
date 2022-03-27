@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/9c24346f4e19
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/487
 title: Running a Marathon
 subtitle: AmicoFollow
 slug: running-a-marathon

@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/188da5d3da40
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/1361
 title: The Absinthe Drinker And David
 subtitle: Essay, 3/4/2012
 slug: the-absinthe-drinker-and-david

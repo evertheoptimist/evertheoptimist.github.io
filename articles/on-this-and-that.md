@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/8a1bc6260d74
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/1559
 title: On This And That
 subtitle: Published on collegeconfidential.com
 slug: on-this-and-that

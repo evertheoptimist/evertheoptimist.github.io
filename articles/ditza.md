@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/85fea9240972
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/539
 title: Ditza
 subtitle: 
 slug: ditza

@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/f3b4410bf09d
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/785
 title: The Judgement Day
 subtitle: 
 slug: the-judgement-day

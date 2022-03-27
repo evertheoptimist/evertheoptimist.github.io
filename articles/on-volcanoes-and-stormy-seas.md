@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/122f845b957a
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/186
 title: On Volcanoes and Stormy Seas
 subtitle: SATURDAY, DECEMBER 25, 2010
 slug: on-volcanoes-and-stormy-seas

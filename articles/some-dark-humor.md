@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/ecc6b88721eb
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/202
 title: Some Dark Humor
 subtitle: Posting to Collegeconfidential
 slug: some-dark-humor

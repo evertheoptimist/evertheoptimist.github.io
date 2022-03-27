@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/d4115befa9eb
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/2194
 title: Sobering News
 subtitle: Email 11/24/12
 slug: sobering-news

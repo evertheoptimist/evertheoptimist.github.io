@@ -1,5 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/94bcbe70e75c
+srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/1409
 title: Musings On College Confidential
 subtitle: sunriseeast — 04–19–2012 01:17 AM
 slug: musings-on-college-confidential
