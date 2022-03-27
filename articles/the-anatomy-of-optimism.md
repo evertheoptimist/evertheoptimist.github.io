@@ -1,7 +1,7 @@
 ---
 url: https://medium.com/@evertheoptimist/6532599133a9
 srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/752
-title: The Anatomy of Optimism
+title: The Anatomy of Optimism: Are you a Giraffe or an Ostrich?
 subtitle: July 17, 2011
 slug: the-anatomy-of-optimism
 description: 
@@ -12,7 +12,7 @@ postdate: 2019-05-18
 date: 2011-07-17
 ---
 
-# The Anatomy of Optimism
+# The Anatomy of Optimism: Are you a Giraffe or an Ostrich?
 
 # July 17, 2011
 

@@ -1,7 +1,7 @@
 ---
 url: https://medium.com/@evertheoptimist/2db7fc0b2be9
 srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/742
-title: Between When and If
+title: Between “When” and “If” – A thousand Shades of Grey
 subtitle: Posted on college confidential 07–09–2011
 slug: between-when-and-if
 description: 
@@ -13,7 +13,7 @@ date: 2011-07-09
 withindate: 1
 ---
 
-# Between When and If
+# Between “When” and “If” – A thousand Shades of Grey
 
 Posted on college confidential 07–09–2011
 
