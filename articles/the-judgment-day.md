@@ -1,9 +1,9 @@
 ---
 url: https://medium.com/@evertheoptimist/f3b4410bf09d
 srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/785
-title: The Judgement Day
+title: The Judgment Day
 subtitle: 
-slug: the-judgement-day
+slug: the-judgment-day
 description: 
 tags: cancer
 author: Hyeon Lee
@@ -12,7 +12,7 @@ postdate: 2019-05-18
 date: 2011-05-23
 ---
 
-# The Judgement Day
+# The Judgment Day
 
 According to some fanatics, Rapture was supposed to take place last Sunday. Obviously, it did not happen, and all the sinners can now merrily continue to sin as their judgment day is far off and there will be time to repent at the last minute and be saved. I am not so lucky. Tomorrow is my judgment day. My last chemo infusion was a couple of weeks back followed by a PET scan a few days ago. Tomorrow, I will have a consultation with Dr. S, and find out whether I am in remission or not. I noticed he is not the kind of doctor who will call the patients the moment tests or scan results are available. I see the logic behind this practice. An alarming finding might be better discussed in person with ample room for clarification that will lessen the anxiety of the patient. Given how extensively metastatic my cancer was at the time of the initial diagnosis, and the suboptimal surgery outcome with a tumor the size of a big lime left behind which did not shrink in the mid chemo CT scan, odds are not in my favor. Based on everything I read and researched, a betting man should bet on some form of continuing treatment with 9 to 1 odds.
 
