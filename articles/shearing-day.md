@@ -51,5 +51,3 @@ I can go on forever describing it, but I’m thinking of organizing a petition, 
 Postscript
 
 Fast forward five month later. Two months past the last chemo infusion, my hair is hesitantly coming back. My head is no longer completely bald as it is covered with soft fuzz. During the whole time I was bald, my husband had to beg and plead to have me take the cap off at home, and I would never do it in the public space in the house like a living room or a kitchen only in the bedroom. These days, I am magnanimously generous with him. I spend a good amount of time with my cap off in his presence. He has so little time left to indulge his perversion, I take pity on him. He holds my head in his hands with anticipated nostalgia as if he were caressing a melting ice sculpture of Venus.
-
-

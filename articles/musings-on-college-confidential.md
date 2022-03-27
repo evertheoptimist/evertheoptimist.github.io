@@ -86,5 +86,3 @@ Lilmom,
 which one? S1 is currently taken. S2 is not. He has a lot of female friends, not a girlfriend.
 
 By the way, I think it’s a good sign that both of my sons have good female friends. I am always suspicious of men who do not have good women friends. I think men who relate well to women as friends, as people, colleagues, partners, etc are the ones who make a good husband and father down the road. Passion comes and goes, but understanding and empathy are what sustain a long term relationship in the end.
-
-

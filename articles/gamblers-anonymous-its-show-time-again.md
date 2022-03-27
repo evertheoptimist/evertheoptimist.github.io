@@ -40,5 +40,3 @@ I think I know what it is. It’s a survival instinct. Not the demonstrative kin
 ![](./assets/1*6MdZRoeyHp1O7D3gqV5qyw.png)
 
 [***Amir’s note***: Having realized that our time as an intact family was limited, I suggested to Hyeon that we get some family pictures. Hyeon understood my motivation, though we never discussed it, and did not like the idea. Then, by June, she acquiesced. As you can tell, doom and gloom were scarce.]
-
-

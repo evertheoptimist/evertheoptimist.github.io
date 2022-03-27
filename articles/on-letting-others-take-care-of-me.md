@@ -48,5 +48,3 @@ In my defense, I would like to add that one gift cancer brought me, which I almo
 I also realize that I do need to find a more and more middle ground where I can “reasonably” let my angst come through more, so that others can help me. This, my friend, is still a hard thing for me to learn. It goes against a lifetime habit.
 
 All of you on this thread has been so kind to me. Even though I don’t know you in real life, you are my friends, and you provided me a safe outlet for me to let go. For that, I am immensely grateful.
-
-

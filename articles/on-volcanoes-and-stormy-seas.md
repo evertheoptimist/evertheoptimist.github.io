@@ -40,5 +40,3 @@ I have always believed that the more freedom you give to your loved ones to fly 
 Today, sitting next to Amir, who is finishing up a proposal for work, I am actually happy and content. More than anything else, I am profoundly grateful for the fact that in this crisis, this family was shown to be a stormy sea, not a volcano hidden beneath a thin crust. And, I am patting myself on the back for how smart I must have been at the age of 26 to pick a guy who turned out to be an incredible friend and loyal husband in the worst circumstance!!! Well, OK. Give me a few days till chemo starts. I may change my tune. But, hey, one day at a time. Any morsel of happiness and contentment, I eagerly welcome it.
 
 You have all be extremely generous with your good will. I hope you will have wonderful and restful time with your family till the bustle and hustle start with the new year. Writing on this thread has been very therapeutic, and I thank you sincerely for giving me the opportunity to let it out in a safe environment like this.
-
-

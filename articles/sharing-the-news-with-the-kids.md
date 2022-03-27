@@ -48,5 +48,3 @@ I explained all this to the kids line by line. I also told them that this journe
 While I was discussing all this, I noticed Jon sucking his thumb, though his face was expressionless. That…… broke my heart. Last time I saw him do it was when he was a toddler. Later, I talked with Daniel separately. He cried, and said he wishes it’s he, not me, who is going through this. Perish the thought! I told him that right after I got a clear inkling for what I was dealing with, I put a list together for things I am grateful for, and the first on the list was “I am so grateful that it’s I who is going through in this family, not my husband or kids”.
 
 Now, it’s out and open. We push forward.
-
-

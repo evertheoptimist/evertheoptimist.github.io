@@ -64,5 +64,3 @@ sunriseeast — 04–01–2012 11:46 PM
 Regarding my husband’s note: yes, I was very touched. I cried over and over when I read and re-read it. I feel like enormous burden has been lifted off my shoulder knowing that he will be fine no matter what. I am planning to stay around long time, but realistically, I am dealing with a medical condition that has a very unpredictable path. I have already outlived the life expectancy of my diagnosis. I am living on so called a borrowed time. No matter what happens, I am at peace. I will do my best to be a long term survivor, but it’s not 100% up to me. I accept that.
 
 Throughout this period, my husband and my two kids have been thriving, and I am so enormously grateful for that. They are concerned, but that’s not what consumes their life. This is a true blessing.
-
-

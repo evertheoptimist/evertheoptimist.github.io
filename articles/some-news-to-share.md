@@ -58,5 +58,3 @@ You all have been wonderful friends to me. Thank you.
 Hyeon
 
 (PS. I found an amazing support group forum on the web, and this has already been tremendous source of information and encouragement. There is one thread I started as below: stupid things people say about deadly diseases. I am “evertheoptimist” (my screen name). Read it: it’s really hilarious. When you have a chance, tell me your favorite. Mine is “Oh well, at least you know what the future holds for you!”
-
-

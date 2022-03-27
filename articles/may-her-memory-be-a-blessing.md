@@ -18,5 +18,3 @@ Hyeon Jeong Lee died at home in the early morning of January 31st 2013.
 It is my hope that her memory will be a blessing for all who read her posts.
 
 ![](./assets/1*Uazl1vPJL4hFG2vI9od2Kg.png)
-
-

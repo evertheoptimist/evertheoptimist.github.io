@@ -26,5 +26,3 @@ One of the major drivers for me to start writing is my children. if I succumb be
 My kids are reading all this now, and have gotten to know me as a full bodied figure, not some abstract — prematurely! This really brought them closer to me. I have a lot to be thankful for.
 
 ![June 2012](./assets/1*FfqwY2QgKH7cN1vsSHt5SQ.png)
-
-

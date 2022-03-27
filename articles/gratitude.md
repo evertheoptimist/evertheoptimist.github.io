@@ -118,5 +118,3 @@ You have no idea how much your support and kindness meant to me. Though I am not
 thank you…..
 
 ![Somewhere in Korea, sometime in the 60s](./assets/1*kzBAabFNYx72dSjcVVLgzg.png)
-
-

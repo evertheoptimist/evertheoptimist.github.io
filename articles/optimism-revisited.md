@@ -86,5 +86,3 @@ this is all hilarious!!! Thanks for the good laugh.
 Fortunately :) I don’t have any unattached girl friends. All of my female friends are happily married. So, it’s good that I don’t have to second guess anybody’s intention.
 
 Meanwhile, the plan of record is still for me to continue to be a pain in the butt for my husband for a long time.
-
-

@@ -50,5 +50,3 @@ This sounds like such a cliché, doesn’t it? I am almost embarrassed by such b
 I realize that this whole interview and job offer process signified the beginning of my rehabilitation with an external focus. So far, till now, I focused on fortifying my internal engine that has been shaken to the core. I took it out for a test drive, and it roared and ran way beyond the full speed limit and more.
 
 I am relieved.
-
-

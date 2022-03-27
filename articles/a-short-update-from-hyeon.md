@@ -42,5 +42,3 @@ When I look back some time in the future, I would like to say “I almost made i
 I am also very grateful for my amazingly wonderful friends who have stood by me and helped and nursed me through this ordeal. Most of all, I am grateful for my husband who has stood by me at every single step of the way. I heard that after they wheeled me into the operating room, he broke down an cried thinking this might be the last time he saw me alive….. My heart weeps for his pain.
 
 My body is in shambles, but my spirit is valiantly holding tight. I will survive this period also, and I will tell this story with humor and mirth.
-
-

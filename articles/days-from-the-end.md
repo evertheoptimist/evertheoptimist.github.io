@@ -24,5 +24,3 @@ This weekend our boys, Dan and Jon, came home back from their respective college
 Best.
 
 Amir
-
-

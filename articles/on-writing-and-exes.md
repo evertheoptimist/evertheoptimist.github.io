@@ -40,5 +40,3 @@ It was very easy to track down his exes, since most of them were still in his li
 Some people may think I was playing with fire. However, I always felt that the more freedom I give to my loved ones to fly away from me in search of better things that I can offer, they more often they come back to rest by my side. Hey, perhaps the more freedom they feel they have, the less temptation there is for them to fly away to begin with…. From the beginning of our relationship, I always felt that whatever slips through my fingers that easily has never been mine to begin with……
 
 When the spring comes and my chemo is over, I would like to have a small road trip with Tsila. that will be lovely.
-
-

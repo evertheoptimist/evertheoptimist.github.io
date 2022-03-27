@@ -54,5 +54,3 @@ But this gift comes wrapped in a thorny ribbon. There is an abysmal darkness to 
 I feel blessed that, so far, my cancer did not extinguish the life force of this family. It did not become the darkness that snuffed out any trace of light in the room. Rather, it became that shadow that gives the elegant nuance to the contour of the beautiful sculpture we managed to chisel out of a block of marble during last 27 years of our life together — my little David. My primary goal is not necessarily a long term survival (though I will do my best to achieve it), but to leave the legacy that fits the essence of who I am. A little miniature David with a perfect harmony of light and shadow. This is the legacy I want to leave behind. So far, I am succeeding.
 
 I hope to take my kids this summer to Florence. To introduce them to my David. To show them the light and shadow of Tuscan sunset. I will not leave the Absinthe Drinker home. She is part of me. She gives David his glorious contour.
-
-

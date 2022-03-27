@@ -64,5 +64,3 @@ As much as it is highly suboptimal that S2’s final high school year, a year th
 For S1, this may be tougher: he will be far away at a school that he needs to fly from/to home. I am planning to do some research, as soon as I can, to see what resources are available at his school for counseling or support groups etc. It’s good thing that he is the “talking type”. That will help.
 
 I cannot be the only one who is in this situation. I would like to get some advice from other parents regarding what to look for in terms of the effect of all this on my kids. Obviously, I have never dealt with a situation like this. I would welcome any advice, observation, and insight on the reaction from the teenagers. I know all kids are different, but still, some collective advice will be helpful.
-
-

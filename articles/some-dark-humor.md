@@ -40,5 +40,3 @@ Amir, who has been participating in all of these meetings and phone calls, final
 My sentiment? “Even if it does, I will keep it to myself until you successfully nurse me back to health!” Rather predatory of myself, but, hey, there is something to be said about a survival instinct!
 
 But seriously though, my husband is my number one ally in this journey. In this respect alone, I am already beating many times over the odds of survival statistics. He is my hero. I was doing a web search on chemo side effect issues, and in one discussion forum, a woman posted that the day her late-stage ovarian cancer diagnosis was confirmed, her husband of 11 years left a simple note saying life is too short for him to be bogged down with all this, and sailed away to Bahamas in his sail boat. I did NOT make this up. I will be watching like a hawk for any budding interest in sailing on Amir’s part. After all, we live in NJ near the shore, and YES, you can indeed sail away from here to Bermuda or Bahamas, and what not).
-
-

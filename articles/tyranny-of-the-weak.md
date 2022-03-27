@@ -52,5 +52,3 @@ But, am I really succeeding. There are times I wonder about this.
 P.S.
 
 I was not my usual self of being chirpy and upbeat with her when my father handed over the phone to her. With 30 years of training, one would think I got really good at it, but certain things can’t be faked all the time. I will have to call her tonight to build her back up. It won’t be hard to do that. She is a terrific dependent — with the right kind of words spoken in a soft cooing voice, she rises to the task of being restored to her happiness. This, I believe, is her saving grace. All I need to do is get myself in the mood of creating that perfect pitch and tone of a soothing, cooing voice.
-
-

@@ -30,5 +30,3 @@ Jon is less demonstrative, but during Amir’s party, when Amir gave a speech an
 Unlike girls of my generation where I grew up, I never considered my life mission to be a good mother to perfect children. Somehow, I managed to have what all my peers were indoctrinated to wish for over anything else in life. I feel very sheepish about this whole thing — somewhat undeserved really, since I did not ask for it, and certainly, I did not pay a hefty sum for it…..
 
 So, regardless of what happens next week, I must remember these are intangibles that the glory of life is made of, not my blood test numbers or a poisonous drink of the chemo cocktails. So, next week I march again with whatever concoction they come up with. This weekend, I will enjoy an unexpected gift of the early spring.
-
-

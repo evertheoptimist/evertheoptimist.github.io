@@ -46,5 +46,3 @@ Six days out of surgery, she is largely breathing on her own except some period 
 Amazing, this modern medicine!
 
 She is recovering very well, and all signs are good. She may be discharged from the hospital in a couple of weeks. Thanks everybody for your good will.
-
-

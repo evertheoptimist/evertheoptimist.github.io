@@ -20,5 +20,3 @@ Dear friends and family,
 This is actually Amir typing on behalf of Hyeon; she is too weak to write herself.
 
 “Below you will read about Amir’s adventures. As for me, things have been on the decline. We’ve gained access to an experimental drug in Israel. We started it yesterday and are hopeful that it will bear fruit. As you know I don’t like to mince words. If this drug does not work out, it will be time to start thinking about the end-stage care.”
-
-

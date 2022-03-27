@@ -98,5 +98,3 @@ What do I want of you:
 * I am optimistic. I am not good at hiding my emotions. You guys know that. You can tell even when I’m just trying to hide my emotions.
 
 * I am a little bit scared, but mostly optimistic. I admire your mom and her fighting spirit. If anybody can beat the odds, she can.
-
-

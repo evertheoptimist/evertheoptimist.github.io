@@ -40,5 +40,3 @@ I never realized that I had so many good friends who are coming out of the woodw
 That’s why I don’t regard this cancer as an unequivocal evil. It has brought forth wonderfully positive changes in me, and I should say thank you. My cancer recovery story will not be that of a hard battle, a gory fight, a jingoistic battle cry. Instead, it will be a story of negotiation, persuasion, and acknowledgement. If I were to describe my sentiment toward cancer in an anthropomorphic manner, this is what I would say to it: *You are not evil. You have done some good work, and I appreciate it. However, it’s time for you and me to part ways. Let’s find an amicable way to conclude this affair. Good night and good bye.*
 
 Tomorrow will be a long day, and a major milestone for my recovery. When I fall asleep tonight, I will do so feeling profoundly grateful that, even with this disease, I have been dealt one hell of a winning hand, and I am a very fortunate woman. No matter what happens, this good thing already happened, and nothing will take that away from me.
-
-

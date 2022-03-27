@@ -38,5 +38,3 @@ Those who were given a gift of pearl from me — — when they go home, they don
 The chemo room in the oncology center is my little sanctuary. It’s a place of much appreciated down time. The silent IV drip for hours — I am cherishing that monotony. With the curtain drawn, I can let it all out without having to worry about leaving an invisible trace of variegated emotions imprinted on the wall of the house that I share with my family.
 
 I have a friend who insisted on accompanying me to be my companion, and signed up for the next chemo. I shall have her with me next time. But that will be the last companion. I am rather possessive of my secret spa. Even an oyster deserves a secret hideout.
-
-

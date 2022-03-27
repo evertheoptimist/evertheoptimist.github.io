@@ -41,5 +41,3 @@ That said, as a statistician, I can’t ignore the possibility that I may end up
 From this moment on, how I conduct myself each moment, each day will be written in a book that will remain with my family long after I am gone. I don’t have all the answers yet on exactly how best to write this book — I am just learning to orient myself in this long journey (I hope “long”). What is clear already though is, I need to think way beyond myself. I need to be honest and earnest. I need to get out of the mindset that this is all about me, because it is not. It’s more about them, and that’s what I should aim for.
 
 ![June 2012 — seven months before Hyeon passed away](./assets/1*tFrrpd88T8RG_KKCRJR_WQ.png)
-
-

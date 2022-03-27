@@ -30,5 +30,3 @@ I will let you know as things develop. Don’t think I am wallowing in misery. I
 I know some of you are afraid to call me in a circumstance like this because in the past, I more or less let you know I would prefer to be left alone. However, this time, feel free to reach out. if I feel not up to a chat, I will simply say so: I hope you will understand.
 
 Thanksgiving is coming up. I genuinely believe that I have SO MUCH to be thankful for, and you, my close friends, are one of the key factors for my sense of genuine gratitude.
-
-

@@ -62,5 +62,3 @@ Need I go on? I feel like Sally in the movie When Harry Met Sally.
 Don’t laugh and snicker. We ALL have our own perversions. It’s just that I am more open and willing to admit it.
 
 ![The twenty fifth anniversary flowers](./assets/1*xWNrVNQsgnKjGHdPS6O7ng.png)
-
-

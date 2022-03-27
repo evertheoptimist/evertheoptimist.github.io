@@ -96,5 +96,3 @@ Thanks for kind words. My kids are doing very well. This is something I have alr
 So far they are concerned, but in their own personal life they are moving forward, thriving, and being very successful both personally, academically, and otherwise professionally. S2 just got back from a 6 week cultural exchange program in Cambodia 100% sponsored by the USA government. Among all the places we have taken them to, Cambodia is not one of the places he has been to already, so it really worked out very well. Came back with amazing stories, including the experience of eating fried tarantula (eewwwwwwwww), and observations about that society in so many ways (one of the observations: everything works based on nepotism. He is so relieved that he is living in a country where meritocracy still rules to a large degree).
 
 I am writing one of my periodic essays. Will be available in a couple of days. Writing has been very therapeutic for me.
-
-

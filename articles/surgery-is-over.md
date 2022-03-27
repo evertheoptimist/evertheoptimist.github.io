@@ -50,5 +50,3 @@ As for my cancer, I actually don’t feel like it’s a monster, a dragon for me
 I know, this sounds pretty crazy. I am not a particularly religious or spiritual person. Normally, I would say, this kind of mumbo jumbo is a classic example of a weak mind and an addled brain…..
 
 I am recovering from the surgery. I hope to be much further along by the time the chemo starts so that I can handle the next phase well. I am so profoundly grateful for all the support I have, especially from Amir. I always knew him to be the best husband I can possibly hope for, but during last few weeks, I realized that I seriously underestimated him. This is why I feel that even with this disease, I have been dealt a winning hand, and I will emerge whole. I am grateful for this good fortune.
-
-

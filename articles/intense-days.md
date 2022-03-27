@@ -43,5 +43,3 @@ A good prospect: he explained that even though CT scan showed cancer nodules in 
 I asked for a surgery as soon as possible. In the end, they were able to schedule it on Monday (12/13). This is good. It’s as soon as it can be done, and after Daniel comes home this Saturday so that we can have a measured family discussion before things become intense. In the afternoon, I packed my husband off to a business trip. It was on his calendar but he was reluctant to go. I told him, there is nothing going on today or tomorrow. The surgery is not until Monday. I don’t want my disease to be the defining phenomenon in this family. It shouldn’t have that much power. This is a marathon, not a sprint. Everybody has to pace themselves. It’s important that we keep as many routines as possible intact.
 
 Last few days seem like a decade. What will next few weeks bring, nobody knows, but I soldier on.
-
-

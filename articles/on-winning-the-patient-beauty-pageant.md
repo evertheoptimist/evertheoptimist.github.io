@@ -48,5 +48,3 @@ I know, most people will think I am insane. But, this craziness is exactly an es
 Recently, I started to really feel that 2011 may become the best year ever, and if this position works out, and I go into remission, I will prove to be prescient, delusional thinking or not. That’s why I never sat down and cried “why me,” became angry or fearful, or got into this battle cry of a hero who is about to slay the dragon. This cancer of mine is letting the best part of me to come to the surface, it is deepening the love between my husband and me, and it is teaching me to lower my barrier and let good friends fully into my sphere. Totally crazy thinking, perhaps, but I am beginning to think I may be right in all this.
 
 Even if I am wrong on all counts, the peace and contentment under the circumstance has to have a net positive impact on my ability to heal.
-
-

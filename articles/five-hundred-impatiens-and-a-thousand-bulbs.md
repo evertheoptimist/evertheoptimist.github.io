@@ -68,5 +68,3 @@ Nothing worth doing should be done in moderation.
 Score one for me — finally.
 
 (Now that the spring is approaching, I am itching for another gardening experiment. This spring will be a very special one for me, so I should plan for something really interesting. Please share your suggestion for foolproof ideas.)
-
-

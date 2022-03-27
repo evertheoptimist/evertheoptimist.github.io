@@ -30,5 +30,3 @@ Toward the end of the trip Daniel said “Mom, I am so glad that you are determi
 ![](./assets/1*ZYJVVz0s2ZpXBsfeSmg2Dw.png)
 
 Oh, regarding the “Stupid Things People Say…” thread, my contribution was the question I got from a health insurance agent when I called to make sure that all necessary pre-approval, if any, was in order for the major abdominal surgery I was scheduled to get (total abdominal hysterectomy with concurrent removal of all other reproductive organs). She asked “Is it an inpatient or outpatient?”
-
-

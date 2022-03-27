@@ -44,5 +44,3 @@ So, are you enjoying this show, so far? Maybe, “enjoying” has a bit of sadis
 PS. Amir came to the consultation with me. He was in Europe this week on business, and was supposed to be back tonight. Instead, he came back the night before, and showed up at MSKCC — unexpectedly! I think he thought about the possibility of the scan results turning out bad, and did not want me to face it alone. If I could distill his essence, mass produce it, put it in a bottle, and sell, I would be a millionaire.
 
 ![June 2012](./assets/1*fOyKiVpK80IkAVdifk3zgA.png)
-
-
