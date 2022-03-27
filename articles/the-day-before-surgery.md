@@ -8,7 +8,7 @@ tags: cancer
 author: Hyeon Lee
 username: evertheoptimist
 postdate: 2019-05-30
-date: unknown
+date: 2010-12-12
 ---
 
 # The Day before Surgery
