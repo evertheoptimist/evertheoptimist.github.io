@@ -2,7 +2,7 @@
 url: https://medium.com/@evertheoptimist/4e8298ad1a8e
 title: The Year of the Glorious Cliché
 subtitle: Email to friends and family — 1/12/12
-slug: the-year-of-the-glorious-cliché
+slug: the-year-of-the-glorious-cliche
 description: 
 tags: cancer
 author: Hyeon Lee
