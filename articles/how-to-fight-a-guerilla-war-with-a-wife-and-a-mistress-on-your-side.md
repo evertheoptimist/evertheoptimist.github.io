@@ -8,6 +8,7 @@ tags: cancer
 author: Hyeon Lee
 username: evertheoptimist
 postdate: 2019-04-28
+date: 2012-05-18
 ---
 
 # How To Fight a Guerilla War With a Wife and a Mistress On Your Side

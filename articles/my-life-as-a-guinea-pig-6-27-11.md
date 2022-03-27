@@ -8,6 +8,7 @@ tags: cancer
 author: Hyeon Lee
 username: evertheoptimist
 postdate: 2019-05-18
+date: 2011-06-27
 ---
 
 # My Life as a Guinea Pig

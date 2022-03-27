@@ -8,6 +8,7 @@ tags: cancer
 author: Hyeon Lee
 username: evertheoptimist
 postdate: 2019-05-30
+date: 2010-12-11
 ---
 
 # Sharing the News with the Kids

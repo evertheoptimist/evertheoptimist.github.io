@@ -8,6 +8,7 @@ tags: cancer
 author: Hyeon Lee
 username: evertheoptimist
 postdate: 2019-05-18
+date: 2011-09-20
 ---
 
 # The Curley Red Haired Inner Demon

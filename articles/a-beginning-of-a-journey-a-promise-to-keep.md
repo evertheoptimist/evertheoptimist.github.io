@@ -8,6 +8,7 @@ tags: love
 author: Hyeon Lee
 username: evertheoptimist
 postdate: 2019-05-30
+date: unknown
 ---
 
 # A Beginning of a Journey: A Promise to Keep

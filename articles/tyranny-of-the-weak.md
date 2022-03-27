@@ -8,6 +8,7 @@ tags: love
 author: Hyeon Lee
 username: evertheoptimist
 postdate: 2019-05-19
+date: 2011-02-07
 ---
 
 # Tyranny of the Weak

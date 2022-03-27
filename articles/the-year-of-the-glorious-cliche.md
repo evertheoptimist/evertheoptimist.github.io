@@ -8,6 +8,7 @@ tags: cancer
 author: Hyeon Lee
 username: evertheoptimist
 postdate: 2019-05-18
+date: 2012-01-12
 ---
 
 # The Year of the Glorious Cliché
