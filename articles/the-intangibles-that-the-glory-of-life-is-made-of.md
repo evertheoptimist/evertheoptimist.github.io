@@ -8,7 +8,7 @@ tags: love,cancer
 author: Hyeon Lee
 username: evertheoptimist
 postdate: 2019-04-28
-date: unknown
+date: 2012-03-22
 ---
 
 # The Intangibles That The Glory Of Life Is Made Of
