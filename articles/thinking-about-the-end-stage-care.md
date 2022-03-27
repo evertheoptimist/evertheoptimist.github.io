@@ -2,7 +2,7 @@
 url: https://medium.com/@evertheoptimist/a049fd3285a6
 title: 1/13/13
 subtitle: Dear friends and family,
-slug: 1-13-13
+slug: thinking-about-the-end-stage-care
 description: 
 tags: 
 author: Hyeon Lee

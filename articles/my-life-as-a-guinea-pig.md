@@ -2,7 +2,7 @@
 url: https://medium.com/@evertheoptimist/6b06414cb922
 title: My Life as a Guinea Pig — 6/27/11
 subtitle: Dear Friends,
-slug: my-life-as-a-guinea-pig-6-27-11
+slug: my-life-as-a-guinea-pig
 description: 
 tags: cancer
 author: Hyeon Lee

@@ -2,7 +2,7 @@
 url: https://medium.com/@evertheoptimist/daf444111b7e
 title: Gamblers’ Anonymous? It’s Show Time Again!
 subtitle: 6/24/12
-slug: gamblers-anonymous-it-s-show-time-again
+slug: gamblers-anonymous-its-show-time-again
 description: 
 tags: cancer
 author: Hyeon Lee
