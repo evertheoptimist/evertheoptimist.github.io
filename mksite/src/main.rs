@@ -1,6 +1,6 @@
 use std::fs::File;
 use std::io::{BufRead, BufReader, Read};
-use std::path::Path;
+use std::path::{Path, PathBuf};
 
 use anyhow::{anyhow, bail, Context};
 use yaml_rust::yaml::{Yaml, YamlLoader};
@@ -108,8 +108,29 @@ fn parse_article_file(path: &Path) -> Result<Article, anyhow::Error> {
     })
 }
 
+fn collect_articles(dir: &Path) -> Result<Vec<Article>, anyhow::Error> {
+    let mut result = Vec::new();
+    for entry in std::fs::read_dir(dir).with_context(|| format!("opening directory {:?}", dir))? {
+        let entry = entry?;
+        if !entry
+            .file_type()
+            .with_context(|| format!("checking file type for {:?}", entry.file_name()))?
+            .is_file()
+        {
+            continue;
+        }
+        result.push(
+            parse_article_file(&entry.path())
+                .with_context(|| format!("reading file {:?}", entry.file_name()))?,
+        );
+    }
+    result.sort_by(|a1, a2| a1.sort_ordinal.cmp(&a2.sort_ordinal));
+    Ok(result)
+}
+
 fn main() {
-    drop(dbg!(parse_article_file(Path::new(
-        std::env::args_os().nth(1).expect("give arg").as_os_str()
-    ))));
+    let path = PathBuf::from(std::env::args_os().nth(1).expect("give arg").as_os_str());
+    for art in collect_articles(&path).expect("failed to collect articles") {
+        println!("{}", &art.slug);
+    }
 }
