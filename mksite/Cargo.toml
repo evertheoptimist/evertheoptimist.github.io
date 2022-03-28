@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 pulldown-cmark = "0.9.1"
+yaml-rust = "0.4.5"
