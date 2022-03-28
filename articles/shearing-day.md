@@ -1,7 +1,7 @@
 ---
 url: https://medium.com/@evertheoptimist/ccc1791b0710
 srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/777
-title: Shearing Day: A Dance of Seven Scarves
+title: "Shearing Day: A Dance of Seven Scarves"
 subtitle: 
 slug: shearing-day
 description: 

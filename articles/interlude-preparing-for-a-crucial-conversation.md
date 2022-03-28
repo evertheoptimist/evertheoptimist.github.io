@@ -1,6 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/ea2dc741a3c5
-title: Interlude: Preparing for a Crucial Conversation
+title: "Interlude: Preparing for a Crucial Conversation"
 subtitle: A note from Amico
 slug: interlude-preparing-for-a-crucial-conversation
 description: 
