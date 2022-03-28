@@ -1,7 +1,8 @@
 use std::fs::File;
-use std::io::{self, BufRead, BufReader, Read};
+use std::io::{BufRead, BufReader, Read};
 use std::path::Path;
 
+use anyhow::{anyhow, bail, Context};
 use yaml_rust::yaml::{Yaml, YamlLoader};
 
 mod frontmatter {
@@ -26,38 +27,22 @@ struct Article {
     sort_ordinal: SortOrdinal,
 }
 
-#[derive(Debug)]
-enum ArticleParseError {
-    MissingFrontmatterStart,
-    MissingFrontmatterEnd,
-    InvalidFrontmatterYamlSyntax(yaml_rust::scanner::ScanError),
-    FrontmatterNotHash,
-    MissingFrontmatterKey(&'static str),
-    InvalidFrontmatterValue(&'static str),
-    Io(io::Error),
-}
-impl From<io::Error> for ArticleParseError {
-    fn from(e: io::Error) -> Self {
-        Self::Io(e)
-    }
-}
-
-fn parse_article_file(path: &Path) -> Result<Article, ArticleParseError> {
+fn parse_article_file(path: &Path) -> Result<Article, anyhow::Error> {
     let mut f = BufReader::new(File::open(path)?);
     let mut line = String::new();
 
     // Find the frontmatter section, delimited by lines containing exactly "---".
     if f.read_line(&mut line)? == 0 {
-        return Err(ArticleParseError::MissingFrontmatterStart);
+        bail!("file empty (no frontmatter)");
     }
     if line.trim_end() != frontmatter::DELIMITER {
-        return Err(ArticleParseError::MissingFrontmatterStart);
+        bail!("first line of file is not frontmatter delimiter");
     }
     let mut frontmatter = String::new();
     loop {
         line.clear();
         if f.read_line(&mut line)? == 0 {
-            return Err(ArticleParseError::MissingFrontmatterEnd);
+            bail!("end-of-frontmatter delimiter not found before EOF");
         }
         if line.trim_end() == frontmatter::DELIMITER {
             break;
@@ -66,14 +51,17 @@ fn parse_article_file(path: &Path) -> Result<Article, ArticleParseError> {
     }
 
     // Parse the frontmatter into a valid YAML hash.
-    let mut frontmatter = YamlLoader::load_from_str(&frontmatter)
-        .map_err(ArticleParseError::InvalidFrontmatterYamlSyntax)?;
+    let mut frontmatter =
+        YamlLoader::load_from_str(&frontmatter).context("invalid YAML syntax in frontmatter")?;
     if frontmatter.len() != 1 {
-        return Err(ArticleParseError::FrontmatterNotHash);
+        bail!(
+            "frontmatter does not contain exactly one YAML document: len = {}",
+            frontmatter.len()
+        );
     }
     let frontmatter = match &mut frontmatter[0] {
         Yaml::Hash(h) => h,
-        _ => return Err(ArticleParseError::FrontmatterNotHash),
+        _ => bail!("frontmatter is not a YAML hash"),
     };
 
     // Extract keys of interest from the YAML frontmatter.
@@ -81,24 +69,22 @@ fn parse_article_file(path: &Path) -> Result<Article, ArticleParseError> {
         frontmatter
             .get_mut(&Yaml::String(String::from(k)))
             .map(|x| std::mem::replace(x, Yaml::Null))
-            .ok_or(ArticleParseError::MissingFrontmatterKey(k))
+            .ok_or_else(|| anyhow!("missing frontmatter key: {}", k))
     };
-    let slug = get_key(frontmatter::SLUG)?.into_string().ok_or(
-        ArticleParseError::InvalidFrontmatterValue(frontmatter::SLUG),
-    )?;
-    let title = get_key(frontmatter::TITLE)?.into_string().ok_or(
-        ArticleParseError::InvalidFrontmatterValue(frontmatter::TITLE),
-    )?;
+    let slug = get_key(frontmatter::SLUG)?
+        .into_string()
+        .ok_or_else(|| anyhow!("invalid frontmatter value for {}", frontmatter::SLUG))?;
+    let title = get_key(frontmatter::TITLE)?
+        .into_string()
+        .ok_or_else(|| anyhow!("invalid frontmatter value for {}", frontmatter::TITLE))?;
     let sort_ordinal = SortOrdinal {
-        date: get_key(frontmatter::DATE)?.into_string().ok_or(
-            ArticleParseError::InvalidFrontmatterValue(frontmatter::DATE),
-        )?,
+        date: get_key(frontmatter::DATE)?
+            .into_string()
+            .ok_or_else(|| anyhow!("invalid frontmatter value for {}", frontmatter::DATE))?,
         within_date: get_key(frontmatter::WITHIN_DATE)?
             .into_i64()
             .and_then(|n| u32::try_from(n).ok())
-            .ok_or(ArticleParseError::InvalidFrontmatterValue(
-                frontmatter::WITHIN_DATE,
-            ))?,
+            .ok_or_else(|| anyhow!("invalid frontmatter value for {}", frontmatter::WITHIN_DATE))?,
     };
 
     // Skip blank lines between frontmatter and article. (Probably not strictly necessary given
