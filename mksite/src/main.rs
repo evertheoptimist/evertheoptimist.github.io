@@ -81,7 +81,8 @@ fn parse_article_file(path: &Path) -> Result<Article, anyhow::Error> {
         date: get_key(frontmatter::DATE)?
             .into_string()
             .ok_or_else(|| anyhow!("invalid frontmatter value for {}", frontmatter::DATE))?,
-        within_date: get_key(frontmatter::WITHIN_DATE)?
+        within_date: get_key(frontmatter::WITHIN_DATE)
+            .unwrap_or(Yaml::Integer(0))
             .into_i64()
             .and_then(|n| u32::try_from(n).ok())
             .ok_or_else(|| anyhow!("invalid frontmatter value for {}", frontmatter::WITHIN_DATE))?,
