@@ -1,6 +1,6 @@
 use std::fs::File;
-use std::io::{BufRead, BufReader, Read};
-use std::path::{Path, PathBuf};
+use std::io::{BufRead, BufReader, BufWriter, Read, Write};
+use std::path::Path;
 
 use anyhow::{anyhow, bail, Context};
 use yaml_rust::yaml::{Yaml, YamlLoader};
@@ -128,9 +128,42 @@ fn collect_articles(dir: &Path) -> Result<Vec<Article>, anyhow::Error> {
     Ok(result)
 }
 
-fn main() {
-    let path = PathBuf::from(std::env::args_os().nth(1).expect("give arg").as_os_str());
-    for art in collect_articles(&path).expect("failed to collect articles") {
-        println!("{}", &art.slug);
+fn render_site(articles: &[Article], output_dir: &Path) -> Result<(), anyhow::Error> {
+    for article in articles {
+        let parser = pulldown_cmark::Parser::new(&article.body);
+        let outfile = output_dir.join(format!("{}.html", &article.slug));
+        let mut writer = BufWriter::new(
+            File::create(&outfile).with_context(|| format!("creating file {:?}", outfile))?,
+        );
+        write!(
+            &mut writer,
+            "\
+            <!DOCTYPE html>\n\
+            <title>{title}</title>\n\
+            ",
+            title = &article.title,
+        )
+        .with_context(|| format!("writing to {:?}", outfile))?;
+        pulldown_cmark::html::write_html(&mut writer, parser)
+            .with_context(|| format!("writing to {:?}", outfile))?;
+        writer
+            .into_inner()
+            .with_context(|| format!("flushing {:?}", outfile))?
+            .sync_all()
+            .with_context(|| format!("closing {:?}", outfile))?;
     }
+    Ok(())
+}
+
+fn main() -> Result<(), anyhow::Error> {
+    let args: Vec<_> = std::env::args_os().skip(1).collect();
+    if args.len() != 2 {
+        eprintln!("usage: mksite <articles-dir> <output-dir>");
+        std::process::exit(1);
+    }
+    let articles_dir = Path::new(args[0].as_os_str());
+    let output_dir = Path::new(args[1].as_os_str());
+    let articles = collect_articles(articles_dir).context("collecting articles")?;
+    render_site(&articles, output_dir).context("rendering site")?;
+    Ok(())
 }
