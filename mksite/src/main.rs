@@ -13,18 +13,19 @@ mod frontmatter {
     pub const WITHIN_DATE: &str = "withindate";
 }
 
-#[derive(Debug, PartialEq, Eq, PartialOrd, Ord)]
-struct SortOrdinal {
-    date: String,
-    within_date: u32,
-}
-
 #[derive(Debug, PartialEq, Eq)]
 struct Article {
     slug: String,
     title: String,
     body: String,
-    sort_ordinal: SortOrdinal,
+    date: String,
+    within_date: u32,
+}
+
+impl Article {
+    fn sort_key(&self) -> (&str, u32) {
+        (&self.date, self.within_date)
+    }
 }
 
 fn parse_article_file(path: &Path) -> Result<Article, anyhow::Error> {
@@ -71,22 +72,19 @@ fn parse_article_file(path: &Path) -> Result<Article, anyhow::Error> {
             .map(|x| std::mem::replace(x, Yaml::Null))
             .ok_or_else(|| anyhow!("missing frontmatter key: {}", k))
     };
-    let slug = get_key(frontmatter::SLUG)?
-        .into_string()
-        .ok_or_else(|| anyhow!("invalid frontmatter value for {}", frontmatter::SLUG))?;
-    let title = get_key(frontmatter::TITLE)?
-        .into_string()
-        .ok_or_else(|| anyhow!("invalid frontmatter value for {}", frontmatter::TITLE))?;
-    let sort_ordinal = SortOrdinal {
-        date: get_key(frontmatter::DATE)?
+    let mut get_string_key = |k| {
+        get_key(k)?
             .into_string()
-            .ok_or_else(|| anyhow!("invalid frontmatter value for {}", frontmatter::DATE))?,
-        within_date: get_key(frontmatter::WITHIN_DATE)
-            .unwrap_or(Yaml::Integer(0))
-            .into_i64()
-            .and_then(|n| u32::try_from(n).ok())
-            .ok_or_else(|| anyhow!("invalid frontmatter value for {}", frontmatter::WITHIN_DATE))?,
+            .ok_or_else(|| anyhow!("invalid frontmatter value for {}", k))
     };
+    let slug = get_string_key(frontmatter::SLUG)?;
+    let title = get_string_key(frontmatter::TITLE)?;
+    let date = get_string_key(frontmatter::DATE)?;
+    let within_date = get_key(frontmatter::WITHIN_DATE)
+        .unwrap_or(Yaml::Integer(0))
+        .into_i64()
+        .and_then(|n| u32::try_from(n).ok())
+        .ok_or_else(|| anyhow!("invalid frontmatter value for {}", frontmatter::WITHIN_DATE))?;
 
     // Skip blank lines between frontmatter and article. (Probably not strictly necessary given
     // that we'll parse the file as Markdown.)
@@ -103,7 +101,8 @@ fn parse_article_file(path: &Path) -> Result<Article, anyhow::Error> {
     Ok(Article {
         slug,
         title,
-        sort_ordinal,
+        date,
+        within_date,
         body,
     })
 }
@@ -124,7 +123,7 @@ fn collect_articles(dir: &Path) -> Result<Vec<Article>, anyhow::Error> {
                 .with_context(|| format!("reading file {:?}", entry.file_name()))?,
         );
     }
-    result.sort_by(|a1, a2| a1.sort_ordinal.cmp(&a2.sort_ordinal));
+    result.sort_by(|a1, a2| a1.sort_key().cmp(&a2.sort_key()));
     Ok(result)
 }
 
