@@ -127,41 +127,12 @@ fn collect_articles(dir: &Path) -> Result<Vec<Article>, anyhow::Error> {
     Ok(result)
 }
 
-const STYLESHEET: &str = "\
-html {
-    box-sizing: border-box;
-}
-body {
-    max-width: 800px;
-    margin: 0 auto;
-    background-color: #fbfbe9;
-    font-family: Georgia, serif;
-    font-size: 20px;
-    line-height: 1.7;
-}
-h1 {
-    margin-top: 2em;
-    line-height: 1.4;
-}
-.toc {
-    list-style: '\\200B';
-    line-height: 1.4;
-}
-.toc .date {
-    font-size: smaller;
-    padding-right: 1em;
-}
-article img {
-    max-width: 100%;
-}
-";
-
 fn write_index_html<W: Write>(mut writer: W, articles: &[Article]) -> Result<(), anyhow::Error> {
     write!(
         &mut writer,
         "\
         <!DOCTYPE html>\n\
-        <link rel=\"stylesheet\" href=\"styles.css\">\n\
+        <link rel=\"stylesheet\" href=\"static/styles.css\">\n\
         <title>Index</title>\n\
         <h1>Index</h1>\n\
         <ul class=\"toc\">\n\
@@ -200,12 +171,6 @@ fn render_site(articles: &[Article], output_dir: &Path) -> Result<(), anyhow::Er
         safe_close(writer).context("index.html")?;
     }
 
-    {
-        // styles.css
-        let outfile = output_dir.join("styles.css");
-        std::fs::write(&outfile, STYLESHEET).context("styles.css")?;
-    }
-
     for article in articles {
         let parser = pulldown_cmark::Parser::new(&article.body);
         let outfile = output_dir.join(format!("{}.html", &article.slug));
@@ -216,7 +181,7 @@ fn render_site(articles: &[Article], output_dir: &Path) -> Result<(), anyhow::Er
             &mut writer,
             "\
             <!DOCTYPE html>\n\
-            <link rel=\"stylesheet\" href=\"styles.css\">\n\
+            <link rel=\"stylesheet\" href=\"static/styles.css\">\n\
             <title>{title}</title>\n\
             <article>\n\
             ",
