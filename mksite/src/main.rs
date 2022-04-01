@@ -127,7 +127,56 @@ fn collect_articles(dir: &Path) -> Result<Vec<Article>, anyhow::Error> {
     Ok(result)
 }
 
+const INDEX_HTML_PREAMBLE: &str = "\
+<!DOCTYPE html>
+<style>
+ul {
+    list-style: '\\200B';
+    line-height: 1.4;
+}
+.date {
+    font-size: smaller;
+    padding-right: 1em;
+}
+</style>
+<h1>Index</h1>
+";
+
+fn write_index_html<W: Write>(mut writer: W, articles: &[Article]) -> Result<(), anyhow::Error> {
+    writeln!(&mut writer, "{}<ul>", INDEX_HTML_PREAMBLE)?;
+    for article in articles {
+        // deliberately not worrying about escaping; trusted sources
+        writeln!(
+            &mut writer,
+            "<li><span class=\"date\">{date}</span><a href=\"{slug}.html\">{title}</a></li>",
+            slug = &article.slug,
+            title = &article.title,
+            date = article.date,
+        )?;
+    }
+    writeln!(&mut writer, "</ul>")?;
+    Ok(())
+}
+
+/// Flushes and syncs all writes before closing the writer.
+fn safe_close(writer: BufWriter<File>) -> Result<(), anyhow::Error> {
+    writer
+        .into_inner()
+        .context("flushing file")?
+        .sync_all()
+        .context("closing file")?;
+    Ok(())
+}
+
 fn render_site(articles: &[Article], output_dir: &Path) -> Result<(), anyhow::Error> {
+    {
+        // index.html
+        let outfile = output_dir.join("index.html");
+        let mut writer = BufWriter::new(File::create(&outfile).context("creating index.html")?);
+        write_index_html(&mut writer, articles).context("writing to index.html")?;
+        safe_close(writer).context("index.html")?;
+    }
+
     for article in articles {
         let parser = pulldown_cmark::Parser::new(&article.body);
         let outfile = output_dir.join(format!("{}.html", &article.slug));
@@ -145,11 +194,7 @@ fn render_site(articles: &[Article], output_dir: &Path) -> Result<(), anyhow::Er
         .with_context(|| format!("writing to {:?}", outfile))?;
         pulldown_cmark::html::write_html(&mut writer, parser)
             .with_context(|| format!("writing to {:?}", outfile))?;
-        writer
-            .into_inner()
-            .with_context(|| format!("flushing {:?}", outfile))?
-            .sync_all()
-            .with_context(|| format!("closing {:?}", outfile))?;
+        safe_close(writer).with_context(|| format!("{:?}", outfile))?;
     }
     Ok(())
 }
