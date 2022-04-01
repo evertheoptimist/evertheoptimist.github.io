@@ -181,7 +181,7 @@ fn write_article<W: Write>(
     write!(&mut writer, "</article>\n<nav>\n<div class=\"neighbors\">")?;
     let mut nav_link = |arrow: &str, a: Option<&Article>| {
         if let Some(a) = a {
-            writeln!(
+            write!(
                 &mut writer,
                 "\
                 <a class=\"neighbor\" href=\"{slug}.html\">\
@@ -196,7 +196,7 @@ fn write_article<W: Write>(
                 date = a.date.format("%B %-d, %Y"),
             )
         } else {
-            writeln!(&mut writer, "<span class=\"neighbor\"></span>")
+            write!(&mut writer, "<span class=\"neighbor\"></span>")
         }
     };
     nav_link("&larr;", prev)?;
