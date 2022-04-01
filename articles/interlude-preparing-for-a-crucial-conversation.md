@@ -23,7 +23,7 @@ Hi liora,
 
 After discussing the topic with Hyeon, I wrote up some thoughts of how to discuss the news with the kids.
 
-**Dad: **[Setting up the conversation]
+**Dad:** [Setting up the conversation]
 
 * We wanted to go out and celebrate and enjoy the day because we, as a family, are about to enter a very difficult period.
 
@@ -31,7 +31,7 @@ After discussing the topic with Hyeon, I wrote up some thoughts of how to discus
 
 * I’m intentionally making the introduction a little longer so you have a chance to emotionally ‘brace yourself’ to what is about to come. So ‘strap on’ your seat belt because you are about to be jolted emotionally. There is a big challenge ahead.
 
-**Mom**:
+**Mom:**
 
 * A week ago I went to the doctor because I didn’t feel well. Two days later I had an appointment with a specialist who suspected that I may have cancer.
 
