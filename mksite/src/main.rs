@@ -3,6 +3,7 @@ use std::io::{BufRead, BufReader, BufWriter, Read, Write};
 use std::path::Path;
 
 use anyhow::{anyhow, bail, Context};
+use chrono::NaiveDate;
 use yaml_rust::yaml::{Yaml, YamlLoader};
 
 mod frontmatter {
@@ -18,13 +19,13 @@ struct Article {
     slug: String,
     title: String,
     body: String,
-    date: String,
+    date: NaiveDate,
     within_date: u32,
 }
 
 impl Article {
-    fn sort_key(&self) -> (&str, u32) {
-        (&self.date, self.within_date)
+    fn sort_key(&self) -> impl Ord {
+        (self.date, self.within_date)
     }
 }
 
@@ -80,6 +81,7 @@ fn parse_article_file(path: &Path) -> Result<Article, anyhow::Error> {
     let slug = get_string_key(frontmatter::SLUG)?;
     let title = get_string_key(frontmatter::TITLE)?;
     let date = get_string_key(frontmatter::DATE)?;
+    let date = NaiveDate::parse_from_str(&date, "%Y-%m-%d").context("invalid YYYY-MM-DD date")?;
     let within_date = get_key(frontmatter::WITHIN_DATE)
         .unwrap_or(Yaml::Integer(0))
         .into_i64()
@@ -123,7 +125,7 @@ fn collect_articles(dir: &Path) -> Result<Vec<Article>, anyhow::Error> {
                 .with_context(|| format!("reading file {:?}", entry.file_name()))?,
         );
     }
-    result.sort_by(|a1, a2| a1.sort_key().cmp(&a2.sort_key()));
+    result.sort_by_key(|a| a.sort_key());
     Ok(result)
 }
 
