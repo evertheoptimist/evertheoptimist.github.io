@@ -154,6 +154,51 @@ fn write_index_html<W: Write>(mut writer: W, articles: &[Article]) -> Result<(),
     Ok(())
 }
 
+fn write_article<W: Write>(
+    mut writer: W,
+    articles: &[Article],
+    i: usize,
+) -> Result<(), anyhow::Error> {
+    let article = &articles[i];
+    let prev = i.checked_sub(1).map(|j| &articles[j]);
+    let next = articles.get(i + 1);
+    write!(
+        &mut writer,
+        "\
+            <!DOCTYPE html>\n\
+            <link rel=\"stylesheet\" href=\"static/styles.css\">\n\
+            <title>{title}</title>\n\
+            <article>\n\
+            ",
+        title = &article.title,
+    )?;
+    let parser = pulldown_cmark::Parser::new(&article.body);
+    pulldown_cmark::html::write_html(&mut writer, parser)?;
+    write!(&mut writer, "</article>\n<nav>\n")?;
+    let mut nav_link = |arrow: &str, a: Option<&Article>| {
+        if let Some(a) = a {
+            writeln!(
+                &mut writer,
+                "\
+                <a href=\"{slug}.html\">\
+                <span class=\"arrow\">{arrow}</span>\
+                <span class=\"title\">{title}</span>\
+                </a>\
+                ",
+                arrow = arrow,
+                title = &a.title,
+                slug = &a.slug,
+            )
+        } else {
+            writeln!(&mut writer, "<span></span>")
+        }
+    };
+    nav_link("&larr;", prev)?;
+    nav_link("&rarr;", next)?;
+    writeln!(&mut writer, "</nav>")?;
+    Ok(())
+}
+
 /// Flushes and syncs all writes before closing the writer.
 fn safe_close(writer: BufWriter<File>) -> Result<(), anyhow::Error> {
     writer
@@ -173,24 +218,12 @@ fn render_site(articles: &[Article], output_dir: &Path) -> Result<(), anyhow::Er
         safe_close(writer).context("index.html")?;
     }
 
-    for article in articles {
-        let parser = pulldown_cmark::Parser::new(&article.body);
+    for (i, article) in articles.iter().enumerate() {
         let outfile = output_dir.join(format!("{}.html", &article.slug));
         let mut writer = BufWriter::new(
             File::create(&outfile).with_context(|| format!("creating file {:?}", outfile))?,
         );
-        write!(
-            &mut writer,
-            "\
-            <!DOCTYPE html>\n\
-            <link rel=\"stylesheet\" href=\"static/styles.css\">\n\
-            <title>{title}</title>\n\
-            <article>\n\
-            ",
-            title = &article.title,
-        )
-        .with_context(|| format!("writing to {:?}", outfile))?;
-        pulldown_cmark::html::write_html(&mut writer, parser)
+        write_article(&mut writer, articles, i)
             .with_context(|| format!("writing to {:?}", outfile))?;
         safe_close(writer).with_context(|| format!("{:?}", outfile))?;
     }
