@@ -14,9 +14,9 @@ date: 2011-01-31
 
 # Shearing Day: A Dance of Seven Scarves
 
-**Posted on College Confidential**
-
 *Monday, January 31, 2011 at 8:20 PM*
+&middot;
+*posted to College Confidential*
 
 It’s been four weeks since my chemo treatment started. A weekly chemo schedule is rather intense. I am very fortunate that I have not developed any side effects so far. In fact, I haven’t felt this good in months! Back to my full aerobic schedule. No nausea. However, there was one side effect I could not escape from; my hair falling out. Yes, it was anticipated. Yes, it’s only vanity. Yet, seeing clumps of hair falling out during a shower has a visceral impact on one’s psyche. So, like most women going through a chemo treatment, I decided to shave my head.
 

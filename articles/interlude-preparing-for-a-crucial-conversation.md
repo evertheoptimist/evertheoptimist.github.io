@@ -13,11 +13,13 @@ date: 2010-12-09
 
 # Interlude: Preparing for a Crucial Conversation
 
-*Note from Amico:*
-
-*Hyeon and I tried to find the best way to share the news with the kids. We benefited from the advice of a good friend who is a psychotherapist. The following is an email message to her.*
+> *Note from Amico:*
+>
+> Hyeon and I tried to find the best way to share the news with the kids. We benefited from the advice of a good friend who is a psychotherapist. The following is an email message to her.
 
 *Thursday, December 9, 2010*
+&middot;
+*email*
 
 Hi liora,
 

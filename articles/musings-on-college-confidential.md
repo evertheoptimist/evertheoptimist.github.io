@@ -15,8 +15,8 @@ date: 2012-04-19
 # Musings On College Confidential
 
 *Thursday, April 19, 2012 at 01:17 AM*
-
-[Editor’s note: This is a post Hyeon made on College Confidential, followed by some of her on-thread replies.]
+&middot;
+*posted to College Confidential*
 
 Hello, everybody.
 

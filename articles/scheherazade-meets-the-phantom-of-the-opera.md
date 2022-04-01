@@ -15,8 +15,8 @@ date: 2012-08-06
 # Scheherazade Meets The Phantom Of The Opera
 
 *Monday, August 6, 2012*
-
-Email
+&middot;
+*email*
 
 It used to be the case that there is hardly an occupation that enjoyed more unquestioned respect, and even, obedience, from their “customers” than that of a physician. Yet, in this day and age of Google searches and social media networks that enable committed lay people to gather information and share experience, no profession is bullet proof from “empowered” customers’ zealous self advocacy. Indeed, among some patients with serious medical conditions, it has gotten quite fashionable to become skeptical, and even rather belligerent when it comes to dealing with their doctors. Among those prone to conspiracy theories, it is all the rage to blame physicians to be part of the pharmacology industry’s perfidy to “hide” the cure for cancer and other major killer diseases to protect their revenue stream. More benign criticisms about doctors abound — such as being arrogant, authoritarian, dogmatic, inflexible, and closed minded to all sorts of alternative therapy modalities. Various celebrity patients made a tidy sum capitalizing on these sentiments. Even some physician-turned-patient- advocates further promulgate such views. There is a subtle and not so subtle undertone encouraging hypervigilance and an aggressive stance to challenge the physicians to go an extra mile for them — the underlying assumption is, unless thus demanded, it will not be given willingly.
 

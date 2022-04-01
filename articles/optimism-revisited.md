@@ -15,6 +15,8 @@ date: 2011-09-14
 # Optimism Revisited
 
 *Wednesday, September 14, 2011*
+&middot;
+*posted to College Confidential*
 
 I feel like an ex-con who couldn’t stay out of trouble in a polite civilian society.
 

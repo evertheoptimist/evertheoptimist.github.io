@@ -15,8 +15,8 @@ date: 2011-03-05
 # Five Hundred Impatiens and a Thousand Bulbs
 
 *Saturday, March 5, 2011*
-
-Email message to friends and family
+&middot;
+*email to friends and family*
 
 Amir learned to accept and live with my idiosyncrasies. One of the glaring examples is my tendency to go all the way and beyond if I like something or if I get excited about some scheme. Having been raised in an Eastern culture that values greatly balance and moderation, I turned out to be a misfit and rebel with vengeance. My motto has always been “Nothing worth doing should be done in moderation”
 

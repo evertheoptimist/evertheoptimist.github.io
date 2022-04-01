@@ -14,8 +14,8 @@ date: 2011-02-13
 # Learning to Walk Again
 
 *Sunday, February 13, 2011*
-
-Email message to friends
+&middot;
+*email to friends*
 
 I am periodically sharing my news with you — my friends and family. Writing has been very therapeutic for me as I am going through this journey. Please don’t feel obligated to read it through and through or reply. Just by allowing me to use you as a white canvass where I express myself, you are letting me heal and recover. I am doing great, and feeling better every week, chemo or not. In fact, I haven’t felt this good in the last two years, and believe it or not, I am actually happier now than before this whole thing started. Cancer took away certain things but it gave me a lot that I cherish. In net, it’s been on the positive side. Right around the time I started my chemo (5 weeks ago), I had this feeling that this will be the best year ever for me, and I feel that it’s happening already.
 

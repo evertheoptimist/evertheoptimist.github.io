@@ -15,8 +15,8 @@ date: 2010-12-29
 # A Dark Day
 
 *Wednesday, December 29, 2010 at 2:32 PM*
-
-Posting to collegeconfidential.com
+&middot;
+*posted to College Confidential*
 
 Yesterday was a dark day for me. I even cried on my husband’s shoulder for a few minutes.
 

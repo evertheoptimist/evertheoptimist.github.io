@@ -15,8 +15,8 @@ date: 2010-12-12
 # The Day before Surgery
 
 *Sunday, December 12, 2010*
-
-# Email to friends,
+&middot;
+*email to friends*
 
 Dear Mallary/Tom, Diane, Ditza, and Fran,
 
@@ -52,9 +52,11 @@ Cheers…
 
 Hyeon
 
-# Posting to College Confidential
+## My diagnosis of advanced cancer: how to help my kids
 
-Subject: My diagnosis of advanced cancer: how to help my kids
+*Sunday, December 12, 2010*
+&middot;
+*posted to College Confidential*
 
 [college confidential is a message board used by college applicants, students and their parents. Hyeon posted this message using Sunriseeast as her pen name.]
 

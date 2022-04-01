@@ -15,6 +15,8 @@ date: 2011-06-27
 # My Life as a Guinea Pig
 
 *Monday, June 27, 2011*
+&middot;
+*posted to College Confidential*
 
 Dear Friends,
 

@@ -15,6 +15,8 @@ date: 2012-03-22
 # The Intangibles That The Glory Of Life Is Made Of
 
 *Thursday, March 22, 2012*
+&middot;
+*posted to College Confidential*
 
 Today was a beautiful day! A fit day for me to regain my posture. I feel silly and sheepish for being morose last few days. Usually, it takes only a couple of days for me to recover from whatever funk I am dealing with. But this time, it took longer — I guess I have been on an alert for last several weeks, and it just took a bit longer than usual.
 

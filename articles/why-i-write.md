@@ -16,6 +16,8 @@ withindate: 2
 # Why I Write
 
 *Saturday, January 21, 2012 at 10:51 AM*
+&middot;
+*posted to College Confidential*
 
 lilmom,
 

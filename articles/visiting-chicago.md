@@ -16,8 +16,8 @@ withindate: 2
 # Visiting Chicago
 
 *Saturday, July 9, 2011*
-
-Posted on college confidential
+&middot;
+*posted to College Confidential*
 
 Last week, Amir and I went to Chicago to visit Daniel who is staying on campus there this summer for the internship he got with a firm in downtown Chicago. What was supposed to be a short vacation filled with visits to the museums, architecture walking tours, and a survey of nice restaurants turned out to be three solid days of furniture shopping at IKEA and assembly work in Hyde Park in an off campus student apartment. Yet, this was the most emotionally rewarding vacation ever for both of us. Daniel expressed such a delight at having a nicely appointed room with matching furniture and bed linen accessories. His almost childlike and innocent sense of joy and outburst of genuine gratitude for our “service” touched me deeply.
 

@@ -15,8 +15,8 @@ date: 2011-12-11
 # Seduction, Abandonment, and Seduction Again
 
 *Sunday, December 11, 2011*
-
-Email to friends and family
+&middot;
+*email to friends*
 
 Editor’s note — a long email for the die-hard fans]
 

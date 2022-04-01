@@ -61,6 +61,16 @@ hr {
     border: none;
     border-top: 2px rgba(0,0,0,0.25) solid;
 }
+article blockquote {
+    margin: 40px;
+    margin-left: 20px;
+    padding-left: 20px;
+    border-left: 3px rgba(0,0,0,0.25) solid;
+}
+article blockquote > p:first-child {
+    /* Seems to get rid of unwanted top-padding. */
+    line-height: 1;
+}
 
 nav {
     display: flex;

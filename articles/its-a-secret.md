@@ -15,6 +15,8 @@ date: 2012-02-12
 # It’s a Secret
 
 *Sunday, February 12, 2012 at 3:57 PM*
+&middot;
+*posted to College Confidential*
 
 hello everybody.
 

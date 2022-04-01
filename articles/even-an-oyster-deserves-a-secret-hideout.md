@@ -15,6 +15,8 @@ date: 2011-02-05
 # Even an oyster deserves a secret hideout.
 
 *Saturday, February 5, 2011 at 7:45 AM*
+&middot;
+*posted to College Confidential*
 
 Another chemo day on my own. I actually find this solo experience very peaceful and enjoyable. In that oncology wing, I am NORMAL. Everybody knows why I am there, and I don’t need to explain anything. I don’t need to reassure anybody. I don’t need to feel like I am letting down anyone with my situation.
 

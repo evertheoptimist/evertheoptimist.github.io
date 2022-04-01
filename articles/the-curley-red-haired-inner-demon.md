@@ -15,6 +15,8 @@ date: 2011-09-20
 # The Curley Red Haired Inner Demon
 
 *Tuesday, September 20, 2011*
+&middot;
+*posted to College Confidential*
 
 Day 1 of the new round
 

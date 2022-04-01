@@ -14,9 +14,9 @@ date: 2010-12-26
 
 # Some Dark Humor
 
-Posting to Collegeconfidential
-
 *Sunday, December 26, 2010 at 5:50 PM*
+&middot;
+*posted to College Confidential*
 
 How about some black humor?
 
@@ -27,6 +27,8 @@ While we were discussing which psychotherapist would be best for our younger son
 His response: “What? Does he have cancer too? Does he need my help?”
 
 I burst into laughter. It’s good thing that my incision spot does not hurt as much, because I would have punched his nose out a week ago for having made me laugh like this.
+
+---
 
 *Thursday, December 30, 2010 at 9:47 AM*
 

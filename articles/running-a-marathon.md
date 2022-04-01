@@ -15,8 +15,8 @@ date: 2011-02-24
 # Running a Marathon
 
 *Thursday, February 24, 2011*
-
-Posted on College Confidential
+&middot;
+*posted to College Confidential*
 
 I go to an online forum set up for women with the same type of cancer I have. I am mostly there to gather information, learn from other women’s experience, and when I can provide my input, I do. (I am a newbie, so I don’t have a lot to contribute yet).
 

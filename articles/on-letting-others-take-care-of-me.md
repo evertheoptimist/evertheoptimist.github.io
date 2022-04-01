@@ -15,6 +15,8 @@ date: 2011-03-25
 # On Letting Others Take Care of Me
 
 *Friday, March 25, 2011 at 11:46 PM*
+&middot;
+*posted to College Confidential*
 
 Today I finished the 12th chemo out of 18. Still no side effects and everything looks good. This regimen is the best breakthrough in the field of ovarian/UPSC cancer management in last twenty years, but one drawback is that the harshness of the treatment resulted in over 50% dropout rate in the clinical trial. Every woman I know who was/is on this regimen during the last year either had to skip chemo sessions, take a break or reduce the dosage. So far, chemo has absolutely been a breeze. If I manage to finish the program on schedule without a single deviation from the protocol, it bodes very well for me. I think I will be able to do that. I am so grateful that my body is handling it so well.
 

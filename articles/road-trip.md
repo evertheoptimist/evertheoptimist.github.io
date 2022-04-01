@@ -15,6 +15,8 @@ date: 2011-06-20
 # Road Trip
 
 *Monday, June 20, 2011*
+&middot;
+*posted to College Confidential*
 
 Two days before I was scheduled to have an operation, I went to a bookstore to buy a few interesting pieces to read while I am recovering from a major surgery. The first thing that caught my eye was a travel book titled “1,000 Places To See Before You Die”. Having spent a few days gorging on one series of grim statistics after another on my survival odds, I had a gut reaction of dismay — Geez, they gotta come up with a more manageable list now for people like me! As optimistic as I am, I am also a realist. So, in the end I settled with “The Most Scenic Drives in America — 120 Spectacular Road Trips”.
 

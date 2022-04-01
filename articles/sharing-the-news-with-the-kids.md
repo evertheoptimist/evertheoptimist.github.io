@@ -15,6 +15,8 @@ date: 2010-12-11
 # Sharing the News with the Kids
 
 *Saturday, December 11, 2010*
+&middot;
+*posted to College Confidential*
 
 Today, Daniel came home from college. I was both looking forward to having him home and dreading it.
 
@@ -23,6 +25,8 @@ There was such poignancy about the whole situation when we picked him up from th
 I felt like a grinch who is about to come and destroy the sand castle little kids are building on the beach. I felt vulnerable: was there anything ever in life that was rock solid? In a few hours, I will open my mouth and the reality of carefree routines of my kids’ lives will be irrevocably altered, at least for quite some time. I did not want this power. I did not ask for it. If there is a cosmic overseer, is it how this being would feel, looking beyond the boundary of past, present, and future, and knowing what is in store of all of us, the cosmic ignoramuses who are like little bugs on a petri dish? Would this being feel empathy? Sympathy? Mild boredom, perhaps? After all, as much as it was a major crisis for us, in the big picture of life, this is so mundane and trite — a genuine cliché if there ever was one. And, oh, how bourgeoisie it is for me to indulge in this! Simply because I can articulate it better, using quasi-psychological terms and seemingly more sophisticated vocabularies does not make it any more special than what ails countless souls somewhere halfway around the globe where they are facing a real danger of imminent death on a daily basis.
 
 My cancer certainly made me a cheap philosopher, specializing in making much ado about nothing. Now that I think of it, I don’t know how all the writers and artists ever manage to produce their masterpieces without the wonderfully inspiring catalyst that is cancer. :) Maybe they all had it, and did not know about it. :)
+
+---
 
 *Sunday, December 12, 2010*
 

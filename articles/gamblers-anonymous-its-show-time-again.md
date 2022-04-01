@@ -15,6 +15,8 @@ date: 2012-06-24
 # Gamblers’ Anonymous? It’s Show Time Again!
 
 *Sunday, June 24, 2012*
+&middot;
+*posted to College Confidential*
 
 One thing I learned over last year and half with very advanced cancer diagnosis and near non stop treatment is the stark realization that if I am to be a long term survivor, it won’t be because I am cured of cancer or because I managed to achieve a holy grail among patients with deadliest kinds of cancer — near permanent remission. When I recurred over nine months ago, I was still hopeful that the second time is the charm: I will achieve remission with one additional round of treatment and stay there for a very long while. That did not happen. Now, it is increasingly likely that my long term survival would be a result of successful management of cancer as a chronic disease — periods of treatment punctuated by blissful remission, or more likely, a constant treatment with a good quality of life if I am lucky
 

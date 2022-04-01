@@ -15,6 +15,8 @@ date: 2011-03-18
 # Ditza
 
 *Friday, March 18, 2011 at 10:11 PM*
+&middot;
+*posted to College Confidential*
 
 Today was a day of high drama, but not on my account. I am recruiting you to send good thoughts to a women I love dearly — Amir’s older sister.
 

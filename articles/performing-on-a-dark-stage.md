@@ -15,6 +15,8 @@ date: 2011-06-15
 # Performing on a Dark Stage
 
 *Wednesday, June 15, 2011*
+&middot;
+*posted to College Confidential*
 
 Now that my chemo treatment is over and I have been declared to be in remission, I have decided to explore what I could do to maximize my odds for a good long term prognosis. I have a cancer with one of the highest mortality rates, diagnosed at the most advanced stage. I am optimistic for my long term survival, but realistic enough to understand “cure” is not the word they usually use for my condition, and recurrence is likely within a few years. My realistic goal is to have remissions that last long and manage recurrences in between with effective treatments.
 

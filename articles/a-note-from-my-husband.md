@@ -15,8 +15,8 @@ date: 2012-03-30
 # A Note from my Husband
 
 *Friday, March 30, 2012 at 11:38 PM*
-
-An email from my husband to friends and family
+&middot;
+*email from Amico to friends and family*
 
 When I read this, I was in tears..... in a very good way. I am a very lucky woman.
 

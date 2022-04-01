@@ -16,6 +16,8 @@ withindate: 1
 # Between “When” and “If” – A thousand Shades of Grey
 
 *Saturday, July 9, 2011*
+&middot;
+*posted to College Confidential*
 
 A few weeks ago, we went to Jon’s high school graduation ceremony. I was happy to see him conclude his “juvenile” status on a high note — with much personal growth and with a full ride Army ROTC scholarship to a prestigious university. Yet, clearly for this kid, the best is yet to come. I said to myself that Jon’s graduation from college and commissioning as a US Army officer will indeed be a very special occasion since it is all about his dedication to hard work for the life’s goal that he chose for himself from the time of toddlerhood (I never thought one of my kids would become a solider!). He prepared all four years of his high school to win the scholarship and will have spent four years in college to emerge as a top Army officer. I was saying to myself, “I will be so proud of him when I see him commissioned”. Then, in mid sentence, I noticed a hint of hesitation in my inner voice with the word “when” — — should I use “if” instead?
 

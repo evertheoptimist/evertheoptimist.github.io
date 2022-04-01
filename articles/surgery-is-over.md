@@ -15,8 +15,8 @@ date: 2010-12-16
 # Surgery is Over
 
 *Thursday, December 16, 2010*
-
-Email to friends
+&middot;
+*email to friends*
 
 I came home after surgery yesterday. Now, my recovery starts.
 
@@ -38,7 +38,11 @@ The man hardly has a trace of smile, yet I made him smile already a few times. T
 
 Dr. S and I will, hopefully, have a very long term relationship. I’d better find a way to connect with him. I intend to become the most memorable, and the best patient he has ever had — the kind of patient he will grow to feel invested in. It’s a big part of my recovery and survival strategy. We are all human beings. How one feels affects his/her attitude. Attitude begets behavior. Behavior determines outcome.
 
-*Wednesday, December 22, 2010; posting to College Confidential*
+---
+
+*Wednesday, December 22, 2010*
+&middot;
+*posted to College Confidential*
 
 So, it’s been nine days since the surgery.
 

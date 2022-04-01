@@ -15,6 +15,8 @@ date: 2011-02-07
 # Tyranny of the Weak
 
 *Monday, February 7, 2011 at 3:15 PM*
+&middot;
+*posted to College Confidential*
 
 I was reminded today why it was such a good decision not to tell my mother about my condition. With all that is going on with me now, it’s been several days since I talked to her last time — perhaps a couple of days overdue.
 

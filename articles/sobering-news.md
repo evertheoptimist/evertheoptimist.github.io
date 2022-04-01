@@ -15,8 +15,8 @@ date: 2012-11-24
 # Sobering News
 
 *Saturday, November 24, 2012*
-
-Email
+&middot;
+*email*
 
 My newest cancer antigen number is here. It went UP by 101. Exactly the same amount it went DOWN last time.
 

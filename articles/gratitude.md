@@ -16,13 +16,15 @@ date: 2011-11-01
 
 Postings from college confidential
 
-### Amir’s editorial notes
-
-*Having keen interest in our kids college experience, Hyeon joined collegeconfidential dot com, a message board for college kids and their parents. A few days after getting her diagnosis, Hyeon created a new username: sunriseeast and started posting. I knew about her posts and respected her wish not to read any of them. She posted there with the freedom of having none of her friends or relatives read it and none of the readers know who she was in “real life.”*
+> *Amir’s editorial notes*
+>
+> Having keen interest in our kids college experience, Hyeon joined collegeconfidential dot com, a message board for college kids and their parents. A few days after getting her diagnosis, Hyeon created a new username: sunriseeast and started posting. I knew about her posts and respected her wish not to read any of them. She posted there with the freedom of having none of her friends or relatives read it and none of the readers know who she was in “real life.”
 
 ---
 
 *Tuesday, November 1, 2011 at 6:46 PM*
+&middot;
+*posted to College Confidential*
 
 thanks for your concern.....
 

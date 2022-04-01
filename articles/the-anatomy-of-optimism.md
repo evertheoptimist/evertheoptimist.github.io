@@ -13,6 +13,8 @@ date: 2011-07-17
 ---
 
 # The Anatomy of Optimism: Are you a Giraffe or an Ostrich?
+&middot;
+*posted to College Confidential*
 
 *Sunday, July 17, 2011*
 

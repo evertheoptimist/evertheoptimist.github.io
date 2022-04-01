@@ -15,8 +15,8 @@ date: 2010-12-25
 # On Volcanoes and Stormy Seas
 
 *Saturday, December 25, 2010*
-
-Hyeon posted the following on collegeconfidential.
+&middot;
+*posted to College Confidential*
 
 This year, during the eight days of Hanukkah, I saw three doctors and got cancer biopsy results and a CT scan showing things all over the abdominal cavity. So, obviously, lighting the candles every night became a secondary priority. We also had to cancel the family cruise vacation overseas. So, today is Christmas. The kids are visiting our dear family friend who started out as our kids’ caregiver. She took care of my kids for 15 years, and by now she and her family are our extended family also. We are invited too, but this year, less than two weeks out of a major surgery, my husband and I decided to stay home. Although we are completely open about my condition, to be perfectly honest it just made me uncomfortable to be Exhibit A: the newly-minted late-stage cancer patient recovering from major surgery on display together with a decorated Christmas tree and a lighted snowman outside. Christmas day at my friend’s house is an open house affair with lots of her friends and family members stopping by, and I did not want to be the focus of attention among people I don’t know well. Besides, I suspect some people would be very uncomfortable about how they should react.
 

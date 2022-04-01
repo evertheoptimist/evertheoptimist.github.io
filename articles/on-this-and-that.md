@@ -14,9 +14,9 @@ date: 2012-07-10
 
 # On This And That
 
-Published on collegeconfidential.com
-
 *Tuesday, July 10, 2012 at 12:21 AM*
+&middot;
+*posted to College Confidential*
 
 I am really at a loss to take it seriously when people tell me that I am brave or that I am an inspiration. Well, those words are reserved for people who run into a burning building to save a baby. I am just trying to survive the best way I can, that’s all. I could say, you can finally tell me I am an inspiration when I give one of my kidneys to a total stranger. But, alas, as a metastatic cancer patient, I am no longer fit to be an organ donor. It’s such a shame because other than cancer, my organs are so good and so vital!
 
