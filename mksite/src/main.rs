@@ -178,13 +178,13 @@ fn write_article<W: Write>(
     )?;
     let parser = pulldown_cmark::Parser::new(&article.body);
     pulldown_cmark::html::write_html(&mut writer, parser)?;
-    write!(&mut writer, "</article>\n<nav>\n")?;
+    write!(&mut writer, "</article>\n<nav>\n<div class=\"neighbors\">")?;
     let mut nav_link = |arrow: &str, a: Option<&Article>| {
         if let Some(a) = a {
             writeln!(
                 &mut writer,
                 "\
-                <a href=\"{slug}.html\">\
+                <a class=\"neighbor\" href=\"{slug}.html\">\
                 <span class=\"arrow\">{arrow}</span>\
                 <span class=\"title\">{title}</span>\
                 <span class=\"date\">{date}</span>\
@@ -196,12 +196,15 @@ fn write_article<W: Write>(
                 date = a.date.format("%B %-d, %Y"),
             )
         } else {
-            writeln!(&mut writer, "<span></span>")
+            writeln!(&mut writer, "<span class=\"neighbor\"></span>")
         }
     };
     nav_link("&larr;", prev)?;
     nav_link("&rarr;", next)?;
-    writeln!(&mut writer, "</nav>")?;
+    write!(
+        &mut writer,
+        "</div>\n<a class=\"up\" href=\"index.html\">Table of Contents</a>\n</nav>\n"
+    )?;
     Ok(())
 }
 

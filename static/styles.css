@@ -64,16 +64,31 @@ hr {
 
 nav {
     display: flex;
+    flex-direction: column;
     margin-top: 2em;
 }
-nav a {
-    text-decoration: none;
+nav .neighbors {
+    display: flex;
 }
-nav > * {
+nav .neighbor {
     display: inline-flex;
     flex-grow: 1;
     flex-direction: column;
 }
+nav .neighbor:first-child {
+    text-align: left;
+    margin-right: 10px;
+}
+nav .neighbor:last-child {
+    text-align: right;
+    margin-left: 10px;
+}
+nav .up {
+    display: block;
+    margin-top: 2em;
+    text-align: center;
+}
+
 nav .arrow {
     font-size: 34px;
     font-weight: bold;
@@ -81,13 +96,9 @@ nav .arrow {
 nav .date {
     font-size: 16px;
 }
-nav > :first-child {
-    text-align: left;
-}
-nav > :last-child {
-    text-align: right;
-}
+
 nav a {
+    text-decoration: none;
     color: #666;
 }
 nav a:hover, nav a:focus {
