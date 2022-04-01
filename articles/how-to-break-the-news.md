@@ -8,7 +8,8 @@ tags: cancer
 author: Hyeon Lee
 username: evertheoptimist
 postdate: 2019-05-30
-date: 2012-12-09
+date: 2010-12-09
+withindate: 1
 ---
 
 # How to Break the News?
