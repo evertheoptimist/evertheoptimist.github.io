@@ -20,7 +20,7 @@ An email from my husband to friends and family
 
 When I read this, I was in tears….. in a very good way. I am a very lucky woman.
 
-**************************
+---
 
 On a flight from San Francisco to Newark 3/29/12
 
@@ -54,7 +54,7 @@ Oh, oh, my inner voice got startled. Thats alarming — there is a danger of com
 
 Well, she did get to see the full colors of my parachute, she did get to see me spread my wings and soar, but not as an observer. She was a participant, an enabler, she helped me make it happen. Hyeon challenged me to soar and convinced me that I could do that. She showed me the courage of the eagle, a bird who dares go higher and higher, and I rose to her challenge. I feel that the two of us are soaring in heights that few people get to explore. We see the world with clarity and calm. And if her time comes, and she is no longer able to fly with me, I will do this for both of us. I will soar above our children and grandchildren for as long as I can, and share with them the view from above, the world according to Hyeon. Through me, and through my boys, her courage, wisdom and generosity of heart will continue to inspire all who feel affinity with her. All those who appreciate her legacy.
 
-=========================
+---
 
 *Sunday, April 1, 2012 at 11:46 PM*
 

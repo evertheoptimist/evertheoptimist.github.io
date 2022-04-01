@@ -43,12 +43,16 @@ With a bald head, a protruding port, and a prominent scar, I am Exhibit A of mod
 *Monday, January 31, 2011 at 11:01 PM*
 
 I sent email update to friends regarding how I was doing. The latest one about my “shearing day”. My husband was copied to. This is what he wrote in “reply to all” response….
-*******************
+
+---
+
 Usually I refrain from commenting about my wife’s writing. I came to realize a while back that for a couple to try and agree on what they experience together is futile. But on this occasion I will tell you something that only I saw: 
 She looks beautiful in her sheared head! 
 And I’m not saying this just to make her feel good. She looks quite younger, wise and serene. I recognize that some of it comes from the association that I have between a shaved head of an Asian and the Buddhist monks and nuns that we saw in the Far East. But it goes beyond that. Her head is perfectly shaped and looks like the sculpture of a Buddha, rectangular yet with very soft curves. She looks sooo profoundly wise, and it almost feel like the removal of the hair allowed me to look closer into her soul, to see her true self. Which, needless to say, I enjoyed. 
 I can go on forever describing it, but I’m thinking of organizing a petition, having people demand to see her picture. I doubt this will help, she may be shaved, but she is still strong headed, but hope springs eternal. 
-**************************
+
+---
+
 Postscript
 
 Fast forward five month later. Two months past the last chemo infusion, my hair is hesitantly coming back. My head is no longer completely bald as it is covered with soft fuzz. During the whole time I was bald, my husband had to beg and plead to have me take the cap off at home, and I would never do it in the public space in the house like a living room or a kitchen only in the bedroom. These days, I am magnanimously generous with him. I spend a good amount of time with my cap off in his presence. He has so little time left to indulge his perversion, I take pity on him. He holds my head in his hands with anticipated nostalgia as if he were caressing a melting ice sculpture of Venus.

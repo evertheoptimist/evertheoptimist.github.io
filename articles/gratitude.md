@@ -20,7 +20,7 @@ Postings from college confidential
 
 *Having keen interest in our kids college experience, Hyeon joined collegeconfidential dot com, a message board for college kids and their parents. A few days after getting her diagnosis, Hyeon created a new username: sunriseeast and started posting. I knew about her posts and respected her wish not to read any of them. She posted there with the freedom of having none of her friends or relatives read it and none of the readers know who she was in “real life.”*
 
-=========================
+---
 
 *Tuesday, November 1, 2011 at 6:46 PM*
 
@@ -38,13 +38,13 @@ Meanwhile, I have spent quite a lot of time over the weekend, checking all the i
 
 Something has to be done for the this whole healthcare issue.
 
-=========================
+---
 
 *Tuesday, November 1, 2011 at 7:45 PM*
 
 to my credit, I supported the healthcare initiatives BEFORE I was diagnosed, when I was so healthy I never needed more than an annual physical check up and regular preventive dental care and armed with a iron clad health insurance coverage :) — the insurance I still have, but it’s a scary feeling: if we both retire before I am eligible for medicare, nobody will insure me unless the full blown health care initiative gets instituted….
 
-=========================
+---
 
 *Sunday, November 20, 2011 at 7:47 PM*
 
@@ -58,7 +58,7 @@ Objectively speaking, I am at a place where most people don’t even want to ima
 
 Best to you and your family.
 
-=========================
+---
 
 *Sunday, November 20, 2011 at 8:30 PM*
 
@@ -78,7 +78,7 @@ Oh, I am bad, bad, and bad….. All of them are such nice people and well meanin
 
 He is absolutely right. My husband is pitch perfect. I love this man heart and soul. If there is an afterlife or reincarnation after all, I want to spend the eternity with him. I am blessed… truly……… absolutely……….. Completely …………….
 
-=========================
+---
 
 *Tuesday, November 22, 2011 at 7:12 PM*
 
@@ -96,7 +96,7 @@ We decided to surprise my H. S1 will come downstairs suddenly after H is in the 
 
 This will be a very happy thanksgiving indeed…..
 
-=========================
+---
 
 *Wednesday, November 23, 2011 at 10:48 AM*
 
@@ -108,7 +108,7 @@ I am also very grateful that it happened this way. He did not come home because 
 
 I feel profoundly thankful this morning…..
 
-=========================
+---
 
 *Wednesday, November 23, 2011 at 10:19 PM*
 

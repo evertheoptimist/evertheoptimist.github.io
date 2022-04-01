@@ -26,7 +26,7 @@ For four days, I just lingered around her house, ate out, and watched movies wit
 
 I think I know why I feel so comfortable in her presence. She is a person with very tall peaks and deep valleys both in terms of her own personal experience and what she does for a living. My own emotional peak and valley these days can comfortably nestle and snuggle within hers. I feel cocooned within her tall wave length. My less dramatic wavelength can easily be hidden inside hers and harmonize with it. On the other hand, I have another incredibly loyal friend who came through and through to help me all the way. If anything happens to her, I will be the first one to volunteer my days and nights to help out. However, I just don’t see myself confiding in her with my deepest fears and anxieties. She is the most wholesome person in this world. Goodness to the core. Her own life experience is that of domestic peace, love, and tranquility. No thrilling peaks and no perilous valleys. In her presence, I feel like a polluter. I am afraid my crazy (comparatively) tall peaks and valleys will overwhelm her serene landscape of peaceful meadow. I have always been far more emotionally drawn to people with dramatic heights and hazardous lows. In short, I am drawn to people with a certain level of pathology. Perhaps this explains my emotional reaction to my two friends above. This also explains my deep bond with my husband. It’s the emotional intensity beneath his mild manners that attracted me, and the peaks and valleys right below the surface is what kept me orbiting around him.
 
-=========================
+---
 
 *Monday, July 16, 2012 at 11:54 AM*
 
@@ -34,7 +34,7 @@ downtoearth,
 
 people are GOOD LOOKING here at MSKCC. I don’t know whether it’s part of the employment screening criteria or not, but the average “look quotient” is very high. Especially the nurses. Of course, my very Dr. S. is a handsome dude: that goes without saying! Since there are more women than men working here (half the doctors are women. Most nurses are women), I have decided to be a gender neutral connoisseur of beauty. My total addressable market size is much bigger that way! By now, I am flirting with everybody. I know where they live. How long it takes to commute, whether they have children or not, etc.
 
-***************
+---
 
 I got out of the funk I had yesterday. Regarding my friend’s passing, I had known it’s coming for well over a week, since she sent me a goodbye text. So, I had a chance to work that out, though it was still a shock to actually get the final news. But I know she was at peace. And, the obligation toward those who departed should not prevent the living from appreciate what life has to offer even in dire circumstances. This is what she would have liked it, and this certainly what I would like my family and friends to do.
 
@@ -52,13 +52,13 @@ PS.
 
 I told my friend that I am very happy at MSKCC, and I felt like I checked into a resort. She asked, are they giving you facials? So, when Dr. S. stopped by today, I asked him to prescribe a facial for me, and somehow, he seems unable to pull this off for me. OK. one notch down for him….
 
-=========================
+---
 
 *Monday, July 16, 2012 at 8:09 PM*
 
 oh, by the way, I was stood up by a dog today. Poodle, the healing dog was a no show. How low can you get? there is not a shred of pride or dignity left in me!
 
-=========================
+---
 
 *Tuesday, July 17, 2012 at 6:21 PM*
 
@@ -68,7 +68,7 @@ Ha ha ha. I meant to type “complimentary massage”. Man, that’s double typo
 
 I got a foot massage. The massage therapist told me that I could pick one area. I picked my feet. My feet are the ugliest part of my body. Always a second class citizen among all of my body parts. I was in a particularly “politically correct” mood, and decided to favor the underclass :) :) :)
 
-=========================
+---
 
 *Thursday, July 26, 2012 at 2:18 PM*
 
@@ -86,7 +86,7 @@ Every time things look bad, I say to myself: this too will become something we l
 
 It comforts me to know that when and if we have the luxury of looking back on this year, we will have the satisfaction to know that yes we had some tough time, but we handled it the best way we could, and there is no regret about the way we conducted ourselves. That we behaved in a way that is not all about ourselves. that we continue to exert our energy externally: to see how we could be more accommodating of other people’s needs, and how we could show more appreciation for those who reached out to us. That’s the shred of integrity I never want to allow myself to “lose” simply because I have some serious issues of my own.
 
-=========================
+---
 
 *Saturday, July 28, 2012 at 12:11 PM*
 

@@ -34,7 +34,7 @@ So, I opened myself up. I bared my emotion, my thoughts, my fears, and most impo
 
 Today, I had my regular consult with Dr. S. I gave him another essay. I told him that I intend to share one essay every time I see him, and just like Scheherazade’s caliph in The Arabian Nights, if he wants to hear the next story, he will have to keep me alive till next time.
 
-=========================
+---
 
 *Thursday, April 19, 2012 at 6:44 PM*
 
@@ -56,7 +56,7 @@ If you want to know what they are, you too must send positive energy in my way t
 
 (I spent the whole day today metabolizing the latest setback. I am back on my saddle now)
 
-=========================
+---
 
 *Friday, April 20, 2012 at 2:45 PM*
 
@@ -64,7 +64,7 @@ Oh, Creekland, you are a virgin (to this thread!)
 
 Welcome to a one woman freak show!
 
-=========================
+---
 
 *Monday, April 23, 2012 at 12:31 PM*
 

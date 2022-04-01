@@ -41,7 +41,7 @@ If I go into remission, I will participate in a clinical trial for prevention of
 
 So, are you enjoying this show, so far? Maybe, “enjoying” has a bit of sadistic nuance, given the circumstance. But in a way, I want you enjoy this exquisite dance, rather than watch it with an ever increasingly foreboding sense of doom and gloom. I would rather have you as an audience of a Broadway show than spectators in a bloody boxing match even if you are cheering me on to win. I do not see my fickle partner as a foe to knock out in a killer punch. He is shaping me into someone that I actually like better on the mirror than one before he came along. He has led me to open my parachute fully, and I like the colors that I see. He made me more loving and loved. He brought me and my loved ones closer. He is a force of nature, and not necessarily evil. Most of all, he is part of me.
 
-*******************
+---
 
 PS. Amir came to the consultation with me. He was in Europe this week on business, and was supposed to be back tonight. Instead, he came back the night before, and showed up at MSKCC — unexpectedly! I think he thought about the possibility of the scan results turning out bad, and did not want me to face it alone. If I could distill his essence, mass produce it, put it in a bottle, and sell, I would be a millionaire.
 

@@ -26,7 +26,7 @@ Its gotta be hard on him. I always believed that its better to go through all th
 
 So we are keeping vigil from several continents tonight.
 
-=========================
+---
 
 *Saturday, March 19, 2011 at 6:42 PM*
 
@@ -36,7 +36,7 @@ She is in an isolation chamber and people can only see her through the glass. No
 
 (Another drama: she got a call from her doctor to show up at the hospital for a transplant surgery, and when she got there, she was told to wait for a few more hours because the donor was not quite dead yet !!! A friend of mine who is a doctor told me that they would never do it that way in USA. Maybe they have a different way in Austria. It must have been so unnerving for her to wait for this donor to die!)
 
-=========================
+---
 
 *Friday, March 25, 2011 at 11:46 PM*
 

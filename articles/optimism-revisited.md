@@ -62,7 +62,7 @@ Somehow, in the midst of all this, I feel that I am being taken care of by more 
 
 I am standing in a room. My opponent donned a flash costume of nails and spikes all over. It is putting on a scary show of shock and awe with all the appropriate sound and light special effects spreading doom and gloom. I see a little girl in the corner. She reaches out to me saying “I may look frail, but I am much stronger than that. Don’t give up on me, because I won’t fail you”. She offers her hand, and I take it. Together we stand. I don’t know what to call her, or who she is. But I am comforted by her presence. Somehow, I am not afraid anymore. Together, we take one step forward hand in hand ……
 
-=========================
+---
 
 *Thursday, September 15, 2011 at 05:06 PM*
 
@@ -78,7 +78,7 @@ Just to be sure, I will also be creating a dating profile for him on an on line 
 
 There is a caveat though. The new wife will NOT have any more closet space than what I had, and she will not get any of my jewelry — that’s for my son’s kids.
 
-=========================
+---
 
 *Thursday, September 15, 2011 at 09:58 PM*
 

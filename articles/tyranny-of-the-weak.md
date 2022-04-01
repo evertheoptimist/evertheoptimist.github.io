@@ -48,7 +48,7 @@ I would like to believe that so far I have kept that promise, that I did not let
 
 But, am I really succeeding. There are times I wonder about this.
 
-****************
+---
 
 P.S.
 

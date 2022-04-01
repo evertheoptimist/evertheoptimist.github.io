@@ -36,7 +36,7 @@ So, I feel I am benefiting from the best possible care there is, and a healthy b
 
 I should stay away from compulsive number crunching of some depressing statistics for a while. Instead, I should focus on good will, kindness, and generosity of all those around, including ALL of you who have been so good to me. THANK YOU.
 
-=========================
+---
 
 *Friday, December 31, 2010 at 11:17 AM*
 
