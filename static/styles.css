@@ -49,7 +49,7 @@ h1 {
     line-height: 1.4;
 }
 .toc .date {
-    font-size: smaller;
+    font-size: 16px;
     padding-right: 1em;
 }
 article img {
@@ -77,6 +77,9 @@ nav > * {
 nav .arrow {
     font-size: 34px;
     font-weight: bold;
+}
+nav .date {
+    font-size: 16px;
 }
 nav > :first-child {
     text-align: left;

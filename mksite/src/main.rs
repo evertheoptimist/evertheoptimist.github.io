@@ -183,11 +183,13 @@ fn write_article<W: Write>(
                 <a href=\"{slug}.html\">\
                 <span class=\"arrow\">{arrow}</span>\
                 <span class=\"title\">{title}</span>\
+                <span class=\"date\">{date}</span>\
                 </a>\
                 ",
                 arrow = arrow,
                 title = &a.title,
                 slug = &a.slug,
+                date = a.date.format("%B %-d, %Y"),
             )
         } else {
             writeln!(&mut writer, "<span></span>")
