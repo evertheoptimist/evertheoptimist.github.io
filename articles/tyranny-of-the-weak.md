@@ -36,7 +36,7 @@ It’s better that I let her stay in a cocoon of artificial sunshine. Not just f
 
 My feelings toward her at this point are very complicated. I do genuinely love her. All this is because of her weakness, not ill intention, I know that too. At a core, she is a kind, well meaning woman, I have no doubt of that. She had the wisdom of letting me be who I am when I needed it most, more than anything else, from a parent. I am always grateful for that. I want to make her happy and loved, as she wants and deserves. Yet, in a moment of my own crisis, I realize that I am also dealing with insatiable emotional hunger of my mother for my assurance, loyalty, and love that I must satisfy all the time on schedule. I feel like I am staring into the eyes of a beast that I can never tame.
 
-It is a stark image. I feel like a such a insensitive and unkind lout just expressing my feeling about this whole thing …..
+It is a stark image. I feel like a such a insensitive and unkind lout just expressing my feeling about this whole thing .....
 
 Instead I would like to able to say that I am such an evolved person that in an effort to meet her demand I end up lifting myself to a higher level of my own comfort zone. That I learned to completely embrace her weakness and love her for who she is with genuine understanding and compassion. That in the end I am a better person for having her as a mother with all her weakness. I even succeed in believing most of this most times. But not all the time.
 

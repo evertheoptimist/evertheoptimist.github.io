@@ -23,7 +23,7 @@ Last week, Amir and I went to Chicago to visit Daniel who is staying on campus t
 
 ![](./assets/1*pSRH2wzh6Cv23bNV4AceZw.png)
 
-I must say, though, inspiring these two unskilled day laborers to finish the furniture assembly work was a hard work on my part- they delighted so much in talking about politics, ideas, philosophy, and the meaning of education when they should be paying 100% of their attention to the task at hand….
+I must say, though, inspiring these two unskilled day laborers to finish the furniture assembly work was a hard work on my part- they delighted so much in talking about politics, ideas, philosophy, and the meaning of education when they should be paying 100% of their attention to the task at hand....
 
 ![](./assets/1*osDnEhFDUQmVVFPrhPx3hw.png)
 

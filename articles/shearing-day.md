@@ -24,15 +24,15 @@ Yesterday was the “shearing day;” a time to be a sheep. Amir was ready to do
 
 He had all the equipment since Jon likes his hair really short and has relied on his father to do the deed when he wanted to keep it within an inch during the summer. So, I meekly submitted myself to his unsteady, amateurish barber hands. I couldn’t bear to watch it done, so I stipulated no mirror in front of me. I was sobbing as I heard the snip snip sound of what little hair that was gallantly hanging onto my increasingly inhospitable scalp being razored away. He kept saying, how beautiful and sexy I was and gently caressed my rapidly balding head in between sweeping motions of running the razor like a bulldozer. This would have been such a touching, hallmark moment.
 
-Except….. I blurted out. “There is a pervert for every deformity!”
+Except..... I blurted out. “There is a pervert for every deformity!”
 
-That just ruined the magic moment….. This mouth of mine, I can’t help it.
+That just ruined the magic moment..... This mouth of mine, I can’t help it.
 
 Speaking of a perversion, I must confess this was not the first time I suspected him of something like this. I remember that lazy summer on empty campus, when we just started to get to know each other some 26 years ago. One day, we were supposed to see a movie together. He called earlier and said he was playing softball and since my apartment was just around the corner, could he come and take a shower before we go out. I said yes. He came over and went straight to the bathroom. This was the first time he was in my apartment.
 
 He was in the bathroom close to two hours. I heard the sound of water running for a few minutes. Then silence for a few minutes. Then again the sound of water running. This went on interminably. I was pacing back and forth in the living room, convinced that this man had a problem. God knows what’s going on in there!!! I wondered “What amazing luck of mine! I thought I found a pretty decent guy, and he turned out to be pervert!!!”
 
-Finally he came out. He said, well, your bathtub tiles were all covered with dirt and slime, and I cleaned it all out for you. I murmured something to the effect that I am nearsighted and when I take a shower, I take my glasses off, so I did not notice….. He then went on to my kitchen. He must have noticed that all the light bulbs were on strike and made a mental note of it, because next time he came to my apartment, somehow all the light bulbs were miraculously back at work.
+Finally he came out. He said, well, your bathtub tiles were all covered with dirt and slime, and I cleaned it all out for you. I murmured something to the effect that I am nearsighted and when I take a shower, I take my glasses off, so I did not notice..... He then went on to my kitchen. He must have noticed that all the light bulbs were on strike and made a mental note of it, because next time he came to my apartment, somehow all the light bulbs were miraculously back at work.
 
 People stay together for different reasons. When somebody asks me what the secret for our long, and apparently, well functioning marriage is, I say “we have matching pathologies”.
 
@@ -42,7 +42,7 @@ With a bald head, a protruding port, and a prominent scar, I am Exhibit A of mod
 
 *Monday, January 31, 2011 at 11:01 PM*
 
-I sent email update to friends regarding how I was doing. The latest one about my “shearing day”. My husband was copied to. This is what he wrote in “reply to all” response….
+I sent email update to friends regarding how I was doing. The latest one about my “shearing day”. My husband was copied to. This is what he wrote in “reply to all” response....
 
 ---
 

@@ -18,7 +18,7 @@ date: 2012-03-30
 
 An email from my husband to friends and family
 
-When I read this, I was in tears….. in a very good way. I am a very lucky woman.
+When I read this, I was in tears..... in a very good way. I am a very lucky woman.
 
 ---
 

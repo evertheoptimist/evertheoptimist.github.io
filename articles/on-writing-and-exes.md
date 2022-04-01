@@ -20,9 +20,9 @@ It’s funny that many of you are egging me on to write a book. I periodically s
 
 Your platitudes are finally getting to my head. So, today I went to Barnes and Noble to see what kind of books are displayed. This is my business training affecting my personal life. Before you venture in a new business project, you survey the market and check out the potential competition.
 
-I was amazed to see a thousand diet and exercise books, a thousand cookbooks and another thousand “bimbo books”. By “bimbo books”, I am talking about books full of amazing words of wisdom from women with questionably developed intellect about how to act in bed to enthrall the guys, how to beat love competition, how to apply makeup just so…. You get the idea…
+I was amazed to see a thousand diet and exercise books, a thousand cookbooks and another thousand “bimbo books”. By “bimbo books”, I am talking about books full of amazing words of wisdom from women with questionably developed intellect about how to act in bed to enthrall the guys, how to beat love competition, how to apply makeup just so.... You get the idea…
 
-So, I came to a tentative conclusion that there may, may, may be a small niche for a cancer book that does not revolve around a “maudlin, however heroic it may be, and heroic struggle against this mighty enemy” theme…..
+So, I came to a tentative conclusion that there may, may, may be a small niche for a cancer book that does not revolve around a “maudlin, however heroic it may be, and heroic struggle against this mighty enemy” theme.....
 
 Well, not that I am putting potential publishers on my speed dial. I am mostly writing and keeping journals because it has been enormously therapeutic for me, and it’s another way for me to turn this cancer of mine as a net positive experience. This is very important for me.
 
@@ -38,6 +38,6 @@ When I was getting serious about him many many years ago, one of the things I ch
 
 It was very easy to track down his exes, since most of them were still in his life as good friends. That was a huge sign of confirmation for his good character. Shortly after we got married, Tsila came to visit us and stayed with us for a few days (she lives in Israel), and I was very impressed with her. I had a sigh of relief for the good choice I made in one of the most important decisions. It confirmed that indeed he had a good judgment for character, and he was respected and cherished enough by such a woman to remain as a significant presence in her life as a lifelong friend.
 
-Some people may think I was playing with fire. However, I always felt that the more freedom I give to my loved ones to fly away from me in search of better things that I can offer, they more often they come back to rest by my side. Hey, perhaps the more freedom they feel they have, the less temptation there is for them to fly away to begin with…. From the beginning of our relationship, I always felt that whatever slips through my fingers that easily has never been mine to begin with……
+Some people may think I was playing with fire. However, I always felt that the more freedom I give to my loved ones to fly away from me in search of better things that I can offer, they more often they come back to rest by my side. Hey, perhaps the more freedom they feel they have, the less temptation there is for them to fly away to begin with.... From the beginning of our relationship, I always felt that whatever slips through my fingers that easily has never been mine to begin with......
 
 When the spring comes and my chemo is over, I would like to have a small road trip with Tsila. that will be lovely.

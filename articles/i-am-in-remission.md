@@ -38,8 +38,8 @@ Thank you.
 
 thank you so much everybody.
 
-Initially, I had hard time adjusting to my status as a cancer patient since I still looked like a picture of good health when I was diagnosed. Now, I need some time to remind myself that I am actually out of danger. I am rejoining a civilian community, if you know what I mean, and the “normalcy” of it is a bit disorienting…..
+Initially, I had hard time adjusting to my status as a cancer patient since I still looked like a picture of good health when I was diagnosed. Now, I need some time to remind myself that I am actually out of danger. I am rejoining a civilian community, if you know what I mean, and the “normalcy” of it is a bit disorienting.....
 
 The night before the scan results came out, I was walking my husband through the worst possible scenario (disease progression while on chemo) so that he can be mentally prepared for it in case that’s what we end up dealing with. At the end, I said, well, there is a silver lining to everything. I bought couple of pairs of nice dress pants about a month ago when I was hopeful for everything. Luckily to you, I did not wear them. I did not remove the tags, and I have the original receipts. You should be able to return them for full refunds. He did NOT think that was funny! The man has no sense of humor.
 
-Last couple of days, I am starting to notice that there is a bit of a PTSD kind of air about him…… He is very happy now, but looks still a little shaken. I think we both need a bit of downtime to metabolize what just happened during last 5–6 months and finally decompress…..
+Last couple of days, I am starting to notice that there is a bit of a PTSD kind of air about him...... He is very happy now, but looks still a little shaken. I think we both need a bit of downtime to metabolize what just happened during last 5–6 months and finally decompress.....

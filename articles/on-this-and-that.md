@@ -50,7 +50,7 @@ In MSKCC everybody whom I asked this question (how do they treat you) answers wi
 
 PS.
 
-I told my friend that I am very happy at MSKCC, and I felt like I checked into a resort. She asked, are they giving you facials? So, when Dr. S. stopped by today, I asked him to prescribe a facial for me, and somehow, he seems unable to pull this off for me. OK. one notch down for him….
+I told my friend that I am very happy at MSKCC, and I felt like I checked into a resort. She asked, are they giving you facials? So, when Dr. S. stopped by today, I asked him to prescribe a facial for me, and somehow, he seems unable to pull this off for me. OK. one notch down for him....
 
 ---
 

@@ -18,7 +18,7 @@ date: 2011-02-05
 
 Another chemo day on my own. I actually find this solo experience very peaceful and enjoyable. In that oncology wing, I am NORMAL. Everybody knows why I am there, and I don’t need to explain anything. I don’t need to reassure anybody. I don’t need to feel like I am letting down anyone with my situation.
 
-Letting down people I love….. This is my greatest fear, that I may take those whom I love and who love me to dark places down in the abyss. 99% of my upbeat demeanor and relentless optimism is real and genuine, and I believe it’s based on reason, not delusion. Yet, there is this 1% of it — that reflects my desire to lift those around me, not take them down.
+Letting down people I love..... This is my greatest fear, that I may take those whom I love and who love me to dark places down in the abyss. 99% of my upbeat demeanor and relentless optimism is real and genuine, and I believe it’s based on reason, not delusion. Yet, there is this 1% of it — that reflects my desire to lift those around me, not take them down.
 
 A desire not to be the millstone around their neck.
 

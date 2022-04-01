@@ -20,7 +20,7 @@ date: 2012-04-19
 
 Hello, everybody.
 
-Just to let you know that your favorite ;) late stage cancer patient is still alive and kicking….
+Just to let you know that your favorite ;) late stage cancer patient is still alive and kicking....
 
 It’s been three weeks since I started on a new regimen. I go to MSKCC once every three weeks, and the rest of the time, I am a pill popper! Chemo in a pill — cute, huh?
 
@@ -40,7 +40,7 @@ Today, I had my regular consult with Dr. S. I gave him another essay. I told him
 
 thanks for such encouraging words.
 
-today, I got the latest blood test results back…. Not good. the early indication is, this new treatment may not be working.
+today, I got the latest blood test results back.... Not good. the early indication is, this new treatment may not be working.
 
 So, kind words from all of you were very nice — they soothed me.
 
@@ -48,7 +48,7 @@ I never thought that this new treatment protocol ( a very gentle one) will put m
 
 The good news is, the cancer is progressing slowly. So, it seems while it’s not working extra well, it is helping in preventing the cancer from going out of control.
 
-I feel like a little child strapped in a car seat, constantly asking “are we there yet” — except, in my case, the destination milepost seems to be constantly moving further away…..
+I feel like a little child strapped in a car seat, constantly asking “are we there yet” — except, in my case, the destination milepost seems to be constantly moving further away.....
 
 I am starting to explore options outside the boundary of the conventional medicine. Statistically speaking, I am a very high risk patient, and as such, the risk/benefit equation that does not hold for someone with 90% of survival is worth the chance. I am not talking about crazy stuff like “eating cockroaches to cure cancer” claims. I am talking about scientific, but at this stage, highly experimental stuff. I have already done the homework for these.
 
@@ -78,7 +78,7 @@ His beaming face was priceless. As you all know, with the latest setback, I was 
 
 ![With Jon in high school wearing his CAP uniform](./assets/1*f2-XPsXOSCoyYbkr_o448g.png)
 
-One benefit of an advanced stage cancer patient label is that now I can brag about my kids. People probably give me a pass on that — — “that poor thing. She HAD TO say something positive about her life once in awhile….” This is a new week beginning. I am up to whatever comes my way…..
+One benefit of an advanced stage cancer patient label is that now I can brag about my kids. People probably give me a pass on that — — “that poor thing. She HAD TO say something positive about her life once in awhile....” This is a new week beginning. I am up to whatever comes my way.....
 
 *Monday, April 23, 2012 at 4:27 PM*
 
