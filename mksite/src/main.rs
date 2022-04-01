@@ -134,6 +134,8 @@ fn write_index_html<W: Write>(mut writer: W, articles: &[Article]) -> Result<(),
         &mut writer,
         "\
         <!DOCTYPE html>\n\
+        <html lang=\"en\">\n\
+        <meta charset=\"utf-8\">\n\
         <link rel=\"stylesheet\" href=\"static/styles.css\">\n\
         <title>Index</title>\n\
         <h1>Index</h1>\n\
@@ -166,6 +168,8 @@ fn write_article<W: Write>(
         &mut writer,
         "\
             <!DOCTYPE html>\n\
+            <html lang=\"en\">\n\
+            <meta charset=\"utf-8\">\n\
             <link rel=\"stylesheet\" href=\"static/styles.css\">\n\
             <title>{title}</title>\n\
             <article>\n\
