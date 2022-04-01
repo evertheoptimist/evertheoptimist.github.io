@@ -1,6 +1,6 @@
 ---
 url: https://medium.com/@evertheoptimist/a049fd3285a6
-title: 1/13/13
+title: Thinking About The End Stage Care
 subtitle: Dear friends and family,
 slug: thinking-about-the-end-stage-care
 description: 

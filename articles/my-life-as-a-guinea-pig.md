@@ -1,7 +1,7 @@
 ---
 url: https://medium.com/@evertheoptimist/6b06414cb922
 srcurl: https://talk.collegeconfidential.com/t/my-diagnosis-of-advanced-cancer-how-to-help-my-kids/1013554/722
-title: My Life as a Guinea Pig — 6/27/11
+title: My Life as a Guinea Pig
 subtitle: Dear Friends,
 slug: my-life-as-a-guinea-pig
 description: 
