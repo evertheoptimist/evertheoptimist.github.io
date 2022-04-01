@@ -127,23 +127,46 @@ fn collect_articles(dir: &Path) -> Result<Vec<Article>, anyhow::Error> {
     Ok(result)
 }
 
-const INDEX_HTML_PREAMBLE: &str = "\
-<!DOCTYPE html>
-<style>
-ul {
+const STYLESHEET: &str = "\
+html {
+    box-sizing: border-box;
+}
+body {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fbfbe9;
+    font-family: Georgia, serif;
+    font-size: 20px;
+    line-height: 1.7;
+}
+h1 {
+    margin-top: 2em;
+    line-height: 1.4;
+}
+.toc {
     list-style: '\\200B';
     line-height: 1.4;
 }
-.date {
+.toc .date {
     font-size: smaller;
     padding-right: 1em;
 }
-</style>
-<h1>Index</h1>
+article img {
+    max-width: 100%;
+}
 ";
 
 fn write_index_html<W: Write>(mut writer: W, articles: &[Article]) -> Result<(), anyhow::Error> {
-    writeln!(&mut writer, "{}<ul>", INDEX_HTML_PREAMBLE)?;
+    write!(
+        &mut writer,
+        "\
+        <!DOCTYPE html>\n\
+        <link rel=\"stylesheet\" href=\"styles.css\">\n\
+        <title>Index</title>\n\
+        <h1>Index</h1>\n\
+        <ul class=\"toc\">\n\
+        "
+    )?;
     for article in articles {
         // deliberately not worrying about escaping; trusted sources
         writeln!(
@@ -177,6 +200,12 @@ fn render_site(articles: &[Article], output_dir: &Path) -> Result<(), anyhow::Er
         safe_close(writer).context("index.html")?;
     }
 
+    {
+        // styles.css
+        let outfile = output_dir.join("styles.css");
+        std::fs::write(&outfile, STYLESHEET).context("styles.css")?;
+    }
+
     for article in articles {
         let parser = pulldown_cmark::Parser::new(&article.body);
         let outfile = output_dir.join(format!("{}.html", &article.slug));
@@ -187,7 +216,9 @@ fn render_site(articles: &[Article], output_dir: &Path) -> Result<(), anyhow::Er
             &mut writer,
             "\
             <!DOCTYPE html>\n\
+            <link rel=\"stylesheet\" href=\"styles.css\">\n\
             <title>{title}</title>\n\
+            <article>\n\
             ",
             title = &article.title,
         )
