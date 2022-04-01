@@ -14,9 +14,9 @@ date: 2011-01-07
 
 # Wig Shopping
 
-Posted on college confidential
+*Friday, January 7, 2011 at 1:31 AM*
 
-sunriseeast — 01–07–2011 01:31 AM
+Posted on college confidential
 
 Yesterday, I went on a wig shopping. I got synthetic wigs. I felt it’s creepy to wear someone else’s hair. Mallary came with me. She had to go through chemo six years ago for her stage 1 breast cancer. So, the moment she heard of my condition, she immediately volunteered to organize a wig shopping date with me.
 

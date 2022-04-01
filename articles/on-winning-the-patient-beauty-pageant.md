@@ -14,7 +14,7 @@ date: 2011-01-12
 
 # On Winning the Patient Beauty Pageant
 
-**WEDNESDAY, JANUARY 12, 2011 10:57 AM, EST**
+*Wednesday, January 12, 2011 at 10:57 AM*
 
 One thing that I did not anticipate learning about was people’s reaction to my diagnosis. There are some friends and acquaintances that I thought I was not particularly close to who came forth with generosity of their heart and the most amazing kindness. Then there are those who I thought would come rooting for me who remain oddly silent the moment they heard about my condition other than a short one liner. Last, but not the least, there are those who I knew would become my big cheerleaders who ended up exceeding even the wildest expectation by a mile long margin.
 
@@ -26,7 +26,7 @@ After all, other than those who devote their lives to help and support others se
 
 My feelings towards those missing in action is more in the line of anthropological and academic curiosity. I would love to be able to analyze their psyche. Maybe they are uncomfortable dealing with “CANCER”, maybe they think I am falling apart, and too afraid to see me. I think this probably covers most of it.
 
-**SATURDAY, JANUARY 15, 2011 11:13 PM, EST**
+*Saturday, January 15, 2011 at 11:13 PM*
 
 Chemo week 2: still no side effects so far. But too early to tell if I am going to get away scott free again. So far no need for anti nausea medication. A very good friend of mine accompanied me to this chemo. It’s not easy for my husband to take every Friday off. She said: I am your driver today. I said, “No you are my chaperon. You should see me flirt with everyone and anyone shamelessly, regardless of the gender and age: doctors, nurses, aides — everyone”. I intend to win a beauty pageant for cancer patients. Gotta charm all the judges and audience alike from the day one.
 
@@ -34,7 +34,7 @@ Humor aside, I intend to become the most lovable patient. I read once an article
 
 So, extrapolating this to those stricken with serious disease, I would like to believe that there is a survival value of being a likable patient. I would like to make it as rewarding as it can be for those around me to care for me. With the medical staff, their professionalism won’t allow them to treat grumpy patients any worse, but for a patient who makes it so rewarding for them, their positive energy around that has to be a good thing. I do believe there is such a thing as a mind over body, and it’s not just MY mind over MY body, but also minds of those around me over my body. With friends and family members, my motive is a bit less opportunistic. I am genuinely grateful for their attention and care, and the least I can do is to make it rewarding for them.
 
-**WEDNESDAY, JANUARY 19, 2011 06:54 PM, EST**
+*Wednesday, January 19, 2011 at 6:54 PM*
 
 I am feeling better than ever today, including a couple of month prior to the surgery when I was experiencing some effects of the cancer in my body.
 

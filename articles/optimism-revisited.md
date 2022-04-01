@@ -14,7 +14,7 @@ date: 2011-09-14
 
 # Optimism Revisited
 
-sunriseeast — 09–14–2011
+*Wednesday, September 14, 2011*
 
 I feel like an ex-con who couldn’t stay out of trouble in a polite civilian society.
 
@@ -64,7 +64,7 @@ I am standing in a room. My opponent donned a flash costume of nails and spikes 
 
 =========================
 
-sunriseeast — 09–15–2011 05:06 PM
+*Thursday, September 15, 2011 at 05:06 PM*
 
 *“My dad had chemo all his 7 years of fighting Cancer, I can understand what you have to go thru to do your treatments. My thoughts are with you.*
 
@@ -80,7 +80,7 @@ There is a caveat though. The new wife will NOT have any more closet space than 
 
 =========================
 
-sunriseeast — 09–15–2011 09:58 PM
+*Thursday, September 15, 2011 at 09:58 PM*
 
 this is all hilarious!!! Thanks for the good laugh.
 

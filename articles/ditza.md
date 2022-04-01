@@ -14,7 +14,7 @@ date: 2011-03-18
 
 # Ditza
 
-sunriseeast — 03–18–2011 10:11 PM
+*Friday, March 18, 2011 at 10:11 PM*
 
 Today was a day of high drama, but not on my account. I am recruiting you to send good thoughts to a women I love dearly — Amir’s older sister.
 
@@ -28,7 +28,7 @@ So we are keeping vigil from several continents tonight.
 
 =========================
 
-sunriseeast — 03–19–2011 06:42 PM
+*Saturday, March 19, 2011 at 6:42 PM*
 
 So, Ditza is out of surgery. She is so petite they had to cut the donor lungs to her size. I did not know it could be done!!! The surgery was a success — so far so good.
 
@@ -38,7 +38,7 @@ She is in an isolation chamber and people can only see her through the glass. No
 
 =========================
 
-sunriseeast — 03–25–2011 11:46 PM
+*Friday, March 25, 2011 at 11:46 PM*
 
 good news regarding my sister in law who had a lung transplant surgery in Vienna, Austria.
 

@@ -16,7 +16,7 @@ date: 2010-12-26
 
 Posting to Collegeconfidential
 
-sunriseeast — 12–26–2010 05:50 PM
+*Sunday, December 26, 2010 at 5:50 PM*
 
 How about some black humor?
 
@@ -28,7 +28,7 @@ His response: “What? Does he have cancer too? Does he need my help?”
 
 I burst into laughter. It’s good thing that my incision spot does not hurt as much, because I would have punched his nose out a week ago for having made me laugh like this.
 
-sunriseeast — 12–30–2010 09:47 AM
+*Thursday, December 30, 2010 at 9:47 AM*
 
 OK. More wacky cancer humor.
 

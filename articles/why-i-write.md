@@ -15,7 +15,7 @@ withindate: 2
 
 # Why I Write
 
-sunriseeast — 01–21–2012 10:51 AM
+*Saturday, January 21, 2012 at 10:51 AM*
 
 lilmom,
 

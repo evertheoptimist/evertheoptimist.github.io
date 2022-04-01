@@ -13,7 +13,7 @@ date: 2013-01-13
 
 # Thinking About The End Stage Care
 
-1/13/13
+*Sunday, January 13, 2013*
 
 Dear friends and family,
 

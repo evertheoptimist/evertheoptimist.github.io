@@ -14,6 +14,8 @@ date: 2011-06-15
 
 # Performing on a Dark Stage
 
+*Wednesday, June 15, 2011*
+
 Now that my chemo treatment is over and I have been declared to be in remission, I have decided to explore what I could do to maximize my odds for a good long term prognosis. I have a cancer with one of the highest mortality rates, diagnosed at the most advanced stage. I am optimistic for my long term survival, but realistic enough to understand “cure” is not the word they usually use for my condition, and recurrence is likely within a few years. My realistic goal is to have remissions that last long and manage recurrences in between with effective treatments.
 
 I am exploring cancer vaccine trials and maintenance therapies with latest drugs on the horizon. As usual, I have been doing very intense research on these subjects. All of these options are experimental in nature. I believe when you have such a poor prognosis going in, the risk assessment analysis favors an experimental route with a large potential payoff. The kind of options and choices that will be too risky for someone with 95% survival odds for 5 years are worth the risk when you have 5% odds on the book — as is my case.

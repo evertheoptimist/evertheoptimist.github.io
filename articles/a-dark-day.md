@@ -14,9 +14,9 @@ date: 2010-12-29
 
 # A Dark Day
 
-Posting to collegeconfidential.com
+*Wednesday, December 29, 2010 at 2:32 PM*
 
-sunriseeast — 12–29–2010 02:32 PM
+Posting to collegeconfidential.com
 
 Yesterday was a dark day for me. I even cried on my husband’s shoulder for a few minutes.
 
@@ -38,7 +38,7 @@ I should stay away from compulsive number crunching of some depressing statistic
 
 =========================
 
-sunriseeast — 12–31–2010 11:17 AM
+*Friday, December 31, 2010 at 11:17 AM*
 
 response to lastminute,
 

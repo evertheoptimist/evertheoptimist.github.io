@@ -13,7 +13,9 @@ date: 2012-01-12
 
 # The Year of the Glorious Cliché
 
-### Email to friends and family — 1/12/12
+*Thursday, January 12, 2012*
+
+### Email to friends and family
 
 There is an old Chinese saying “May you live in an interesting time”, and it was not always meant to be a blessing. Actually it was frequently meant as a curse. Well, the year 2011 has certainly been very interesting for this family! And, I don’t think it was a curse in spite of everything that happened.
 

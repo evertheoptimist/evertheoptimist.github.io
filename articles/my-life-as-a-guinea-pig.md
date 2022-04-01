@@ -14,7 +14,7 @@ date: 2011-06-27
 
 # My Life as a Guinea Pig
 
-# 6/27/11
+*Monday, June 27, 2011*
 
 Dear Friends,
 
@@ -42,7 +42,7 @@ Going through all this, I realize more and more how active and well thought out 
 
 So, I am officially a guinea pig now. Wish me luck on this new journey!
 
-6/28/11
+*Tuesday, June 28, 2011*
 
 By the way, Memorial Sloan Kettering has a completely digitized on line access system for all the test results, treatment activities, appointment scheduling, billing, etc.
 

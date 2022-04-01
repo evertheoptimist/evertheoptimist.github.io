@@ -22,7 +22,7 @@ Postings from college confidential
 
 =========================
 
-sunriseeast — 11–01–2011 06:46 PM
+*Tuesday, November 1, 2011 at 6:46 PM*
 
 thanks for your concern…..
 
@@ -40,13 +40,13 @@ Something has to be done for the this whole healthcare issue.
 
 =========================
 
-sunriseeast — 11–01–2011 07:45 PM
+*Tuesday, November 1, 2011 at 7:45 PM*
 
 to my credit, I supported the healthcare initiatives BEFORE I was diagnosed, when I was so healthy I never needed more than an annual physical check up and regular preventive dental care and armed with a iron clad health insurance coverage :) — the insurance I still have, but it’s a scary feeling: if we both retire before I am eligible for medicare, nobody will insure me unless the full blown health care initiative gets instituted….
 
 =========================
 
-sunriseeast — 11–20–2011 07:47 PM
+*Sunday, November 20, 2011 at 7:47 PM*
 
 swimcatsmom,
 
@@ -60,7 +60,7 @@ Best to you and your family.
 
 =========================
 
-sunriseeast — 11–20–2011 08:30 PM
+*Sunday, November 20, 2011 at 8:30 PM*
 
 May I share a bit of an ungrateful side of me? Just thinking about writing this post makes me feel like such a cad.
 
@@ -80,7 +80,7 @@ He is absolutely right. My husband is pitch perfect. I love this man heart and s
 
 =========================
 
-sunriseeast — 11–22–2011 07:12 PM
+*Tuesday, November 22, 2011 at 7:12 PM*
 
 Two hours ago, my S1 came home for thanksgiving with a bouquet of flowers. He is resting, so I am posting.
 
@@ -98,7 +98,7 @@ This will be a very happy thanksgiving indeed…..
 
 =========================
 
-sunriseeast — 11–23–2011 10:48 AM
+*Wednesday, November 23, 2011 at 10:48 AM*
 
 S1’s face at the doorstep yesterday, that goofy grin and a bouquet of flowers he was holding — — — I will never forget.
 
@@ -110,7 +110,7 @@ I feel profoundly thankful this morning…..
 
 =========================
 
-sunriseeast — 11–23–2011 10:19 PM
+*Wednesday, November 23, 2011 at 10:19 PM*
 
 on the eve of thanksgiving, I would like to tell here everyone “THANK YOU” from the bottom of my heart. You have been SO incredibly generous and kind with me all throughout this journey.
 

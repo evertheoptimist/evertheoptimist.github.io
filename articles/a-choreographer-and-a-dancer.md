@@ -15,7 +15,7 @@ withindate: 1
 
 # A Choreographer And A Dancer
 
-1/21/12
+*Saturday, January 21, 2012*
 
 I got the scan results today. All clean. All the tumors and accumulation of cancer cells around colons like thick films disappeared. Some enlargement of couple of thoracic nodes, but they are way below the size that warrants clinical interests, and besides they have been like that for months. Dr. S believes that this is unrelated to cancer, and the radiologist only noted them so that it’s on record to see if later scans show any difference going forward. It looks like I am likely to go into remission. In fact, technically I am already in remission (a clean scan with a cancer antigen blood marker within a normal range). When and if I finally end this treatment successfully, I will have beaten 10 to 1 odds for complete remission following recurrence after such a short remission from the front line therapy.
 

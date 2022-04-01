@@ -16,7 +16,7 @@ date: 2012-07-10
 
 Published on collegeconfidential.com
 
-sunriseeast — 07–10–2012 12:21 AM
+*Tuesday, July 10, 2012 at 12:21 AM*
 
 I am really at a loss to take it seriously when people tell me that I am brave or that I am an inspiration. Well, those words are reserved for people who run into a burning building to save a baby. I am just trying to survive the best way I can, that’s all. I could say, you can finally tell me I am an inspiration when I give one of my kidneys to a total stranger. But, alas, as a metastatic cancer patient, I am no longer fit to be an organ donor. It’s such a shame because other than cancer, my organs are so good and so vital!
 
@@ -28,7 +28,7 @@ I think I know why I feel so comfortable in her presence. She is a person with v
 
 =========================
 
-sunriseeast — 07–16–2012 11:54 AM
+*Monday, July 16, 2012 at 11:54 AM*
 
 downtoearth,
 
@@ -54,13 +54,13 @@ I told my friend that I am very happy at MSKCC, and I felt like I checked into a
 
 =========================
 
-sunriseeast — 07–16–2012 08:09 PM
+*Monday, July 16, 2012 at 8:09 PM*
 
 oh, by the way, I was stood up by a dog today. Poodle, the healing dog was a no show. How low can you get? there is not a shred of pride or dignity left in me!
 
 =========================
 
-sunriseeast — 07–17–2012 06:21 PM
+*Tuesday, July 17, 2012 at 6:21 PM*
 
 buenavista
 
@@ -70,7 +70,7 @@ I got a foot massage. The massage therapist told me that I could pick one area. 
 
 =========================
 
-sunriseeast — 07–26–2012 02:18 PM
+*Thursday, July 26, 2012 at 2:18 PM*
 
 thanks everybody. Your continuing support means SO MUCH to me! Please accept my sincere apology for not thanking individually. Please know that every word of encouragement lifts me!
 
@@ -88,7 +88,7 @@ It comforts me to know that when and if we have the luxury of looking back on th
 
 =========================
 
-sunriseeast — 07–28–2012 12:11 PM
+*Saturday, July 28, 2012 at 12:11 PM*
 
 wis,
 

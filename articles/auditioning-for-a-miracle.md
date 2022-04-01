@@ -14,7 +14,7 @@ date: 2011-03-24
 
 # Auditioning for a Miracle
 
-3/24/11
+*Thursday, March 24, 2011*
 
 Yesterday, I was driving from the lab where I go for a weekly blood draw to the hospital where I get my shots. For no particular reason, I just started to cry, and I cried all the way — all forty minutes of driving. Last time I cried like this was the evening I picked Amir up at the train stations 3 ½ months ago when I broke the news that it looked like I would be dealing with stage 4 cancer based on the biopsy results.
 

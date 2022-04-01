@@ -14,7 +14,7 @@ date: 2011-05-24
 
 # I am in Remission!!!!!
 
-# sunriseeast — 05–24–2011
+*Tuesday, May 24, 2011*
 
 Today, I saw my dr. for post chemo consultation. When he walked in and asked me how I was doing, I said “the rapture did not take place as predicted last Saturday, but I feel like I am facing my judgment day today”. He said, well, your CT/PET scan is completely clean! I told him “you never looked so handsome as you do today!” and he had a big laugh (this guy never smiles or laughs, so this is a major accomplishment on my part!) In reality, he actually looks like a grumpy frog. But, he is a very competent doctor.
 
@@ -34,7 +34,7 @@ Thank you.
 
 =========================
 
-sunriseeast — 05–25–2011
+*Wednesday, May 25, 2011*
 
 thank you so much everybody.
 

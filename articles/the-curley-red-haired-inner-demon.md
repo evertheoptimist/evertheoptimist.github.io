@@ -14,7 +14,7 @@ date: 2011-09-20
 
 # The Curley Red Haired Inner Demon
 
-sunriseeast — 09–20–2011
+*Tuesday, September 20, 2011*
 
 Day 1 of the new round
 

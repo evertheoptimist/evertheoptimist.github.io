@@ -14,6 +14,8 @@ date: 2010-12-12
 
 # The Day before Surgery
 
+*Sunday, December 12, 2010*
+
 # Email to friends,
 
 Dear Mallary/Tom, Diane, Ditza, and Fran,

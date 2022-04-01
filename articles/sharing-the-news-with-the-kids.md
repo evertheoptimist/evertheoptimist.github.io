@@ -14,7 +14,7 @@ date: 2010-12-11
 
 # Sharing the News with the Kids
 
-Saturday December 11, 2010.
+*Saturday, December 11, 2010*
 
 Today, Daniel came home from college. I was both looking forward to having him home and dreading it.
 
@@ -24,7 +24,7 @@ I felt like a grinch who is about to come and destroy the sand castle little kid
 
 My cancer certainly made me a cheap philosopher, specializing in making much ado about nothing. Now that I think of it, I don’t know how all the writers and artists ever manage to produce their masterpieces without the wonderfully inspiring catalyst that is cancer. :) Maybe they all had it, and did not know about it. :)
 
-### Sunday, December 12, 2010
+*Sunday, December 12, 2010*
 
 After we came back from dinner last night, I broke the news to the kids. It started with the news that we are not going on a cruise trip, and the reason is because I would be having a major surgery.
 

@@ -14,7 +14,7 @@ date: 2011-07-17
 
 # The Anatomy of Optimism: Are you a Giraffe or an Ostrich?
 
-# July 17, 2011
+*Sunday, July 17, 2011*
 
 When my hair started to fall out, I had my husband shave it to half an inch from the scalp. Interestingly enough, some strands kept on growing through the chemo treatment phase while others were falling out. Among those that grew a couple of inches, a few of them were grey. One evening, my husband caught me standing in front of the bathroom mirror and pulling these few, pitiful grey hair from my mostly bald head. He started to laugh hysterically. I turned around, and said “Don’t laugh. It’s this kind of unhinged optimism that will let me outlive you”. Now that I think about it, I have to admit the scene must have seen quite comical.
 

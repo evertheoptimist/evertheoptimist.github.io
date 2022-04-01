@@ -14,7 +14,7 @@ date: 2013-01-28
 
 # Days From the End
 
-Jan 28, 2013
+*Monday, January 28, 2013*
 
 Dear Friends,
 

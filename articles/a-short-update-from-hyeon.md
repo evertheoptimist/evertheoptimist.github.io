@@ -14,7 +14,7 @@ date: 2012-08-31
 
 # A Short Update From Hyeon
 
-8/31/12
+*Friday, August 31, 2012*
 
 friends,
 

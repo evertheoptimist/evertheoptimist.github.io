@@ -14,6 +14,8 @@ date: 2011-05-23
 
 # The Judgment Day
 
+*Monday, May 23, 2011*
+
 According to some fanatics, Rapture was supposed to take place last Sunday. Obviously, it did not happen, and all the sinners can now merrily continue to sin as their judgment day is far off and there will be time to repent at the last minute and be saved. I am not so lucky. Tomorrow is my judgment day. My last chemo infusion was a couple of weeks back followed by a PET scan a few days ago. Tomorrow, I will have a consultation with Dr. S, and find out whether I am in remission or not. I noticed he is not the kind of doctor who will call the patients the moment tests or scan results are available. I see the logic behind this practice. An alarming finding might be better discussed in person with ample room for clarification that will lessen the anxiety of the patient. Given how extensively metastatic my cancer was at the time of the initial diagnosis, and the suboptimal surgery outcome with a tumor the size of a big lime left behind which did not shrink in the mid chemo CT scan, odds are not in my favor. Based on everything I read and researched, a betting man should bet on some form of continuing treatment with 9 to 1 odds.
 
 I have been thinking about what I would end up dealing with when Dr. S. walks into the room to tell me what he learned. Here are possible scenarios. The best scenario is, I am declared in remission. I now join the civilian population. Instead of being a cancer patient, I become a mental patient, perpetually paranoid about every single odd sensation and wondering whether this is a sign of recurrence or not.

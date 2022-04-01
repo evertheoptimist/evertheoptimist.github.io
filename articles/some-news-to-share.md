@@ -14,7 +14,9 @@ withindate: 2
 
 # Some news to share
 
-Email sent Wednesday December 8, 2010
+*Wednesday, December 8, 2010*
+
+Email
 
 Dear Mallary, Diane, Ditza, and Fran,
 

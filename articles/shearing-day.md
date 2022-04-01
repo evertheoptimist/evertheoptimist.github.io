@@ -16,7 +16,7 @@ date: 2011-01-31
 
 **Posted on College Confidential**
 
-**MONDAY, JANUARY 31, 2011 8:20 PM, EST**
+*Monday, January 31, 2011 at 8:20 PM*
 
 It’s been four weeks since my chemo treatment started. A weekly chemo schedule is rather intense. I am very fortunate that I have not developed any side effects so far. In fact, I haven’t felt this good in months! Back to my full aerobic schedule. No nausea. However, there was one side effect I could not escape from; my hair falling out. Yes, it was anticipated. Yes, it’s only vanity. Yet, seeing clumps of hair falling out during a shower has a visceral impact on one’s psyche. So, like most women going through a chemo treatment, I decided to shave my head.
 
@@ -40,7 +40,7 @@ After the deed was done, I stood in front of a mirror and surveyed the wreckage.
 
 With a bald head, a protruding port, and a prominent scar, I am Exhibit A of modern gynecological cancer treatment options. Not exactly an arousing sight. Though my body is in an excellent shape and form due to a life long healthy life style and good genes, my days as a femme fatale with a sultry come hither look are definitely over. Certainly, a strip tease is out of question, even if I were ever to be so inclined. But, my husband’s perverse fascination with my bald head is giving me an interesting idea. Instead of Salome’s dance of seven veils an ancient form of a strip tease, perhaps, I should develop a routine called a dance of seven scarves. I can just picture his knees going weak as one scarf after another is slowly cast away with an artful, sensuous gesture. It’s good to know when most of what makes me a woman was taken out, there is still something that I can use for feminine guile and charm that will work for at least one perverted customer!
 
-**MONDAY, JANUARY 31, 2011 11:01 PM, EST**
+*Monday, January 31, 2011 at 11:01 PM*
 
 I sent email update to friends regarding how I was doing. The latest one about my “shearing day”. My husband was copied to. This is what he wrote in “reply to all” response….
 *******************

@@ -14,7 +14,7 @@ withindate: 1
 
 # So, the Journey Starts
 
-Monday, December 6, 2010
+*Monday, December 6, 2010*
 
 Last several days were a whirlwind. On Nov 30, I went to see a primary care physician with some symptoms that have been bothering me last six weeks. A pelvic exam in the office showed something. That necessitated a visit with a gynecologist, who in turn wasted no time in setting up an emergency appointment with a gynecologic oncologist. Meanwhile, this morning the biopsy taken from the gynecologist’s office came back positive for cancer, and the ultrasound scan and CT scan show a lot of things all over the abdominal cavity, including things showing up in the liver. This puts the cancer at stage 4, and there is no stage 5.The best bet is ovarian cancer.
 

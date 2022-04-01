@@ -14,7 +14,7 @@ date: 2012-02-12
 
 # It’s a Secret
 
-sunriseeast — 02–12–2012 03:57 PM
+*Sunday, February 12, 2012 at 3:57 PM*
 
 hello everybody.
 

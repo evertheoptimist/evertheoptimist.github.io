@@ -14,7 +14,7 @@ date: 2011-02-26
 
 # On Writing and Exes
 
-sunriseeast — 02–26–2011 02:48 PM
+*Saturday, February 26, 2011 at 2:48 PM*
 
 It’s funny that many of you are egging me on to write a book. I periodically send update email to a circle of my friends and family members, and the contents of many of the same posts on this thread have been the mainstay. I am getting the same feedback.
 

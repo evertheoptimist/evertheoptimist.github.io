@@ -14,7 +14,7 @@ withindate: 1
 
 # Intense Days
 
-Wednesday, December 8, 2010
+*Wednesday, December 8, 2010*
 
 Intense two days — yesterday and today.
 

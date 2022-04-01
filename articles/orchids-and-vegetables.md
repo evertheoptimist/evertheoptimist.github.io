@@ -14,7 +14,7 @@ date: 2011-05-04
 
 # Orchids and Vegetables
 
-**5/4/11**
+*Wednesday, May 4, 2011*
 
 The other day, when I came back home from a doctor’s office, and was walking from the garage to the family room, I heard a baby crying. The only car I saw on the driveway was Jon’s car. So, understandably, I was intensely puzzled. That puzzlement turned into a minor shock when I saw him holding a baby, nursing him with a bottle. On a closer examination, I realized that it was a doll the size of a couple of month old baby. Turns out, it’s one of those teen pregnancy prevention projects as part of the health education curriculum. Each student is given a doll to take care of for a day. The doll is programmed to behave like a typical newborn, that is, it requires constant attention and care with no respect for the caregiver’s other priorities and plans. Unless held to the chest on a regular basis and/or fed and caressed it wails incessantly. I guess the idea is to press upon the teenagers the weighty consequences of their behaviors and choices.
 

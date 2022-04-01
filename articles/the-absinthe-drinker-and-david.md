@@ -14,7 +14,9 @@ date: 2012-03-04
 
 # The Absinthe Drinker And David
 
-Essay, 3/4/2012
+*Sunday, March 4, 2012*
+
+Essay
 
 Musee d’Orsay in Paris is one of my three favorite museums in the world — the other two being Metropolitan Museum of Art in Manhattan, and Rijksmuseum in Amsterdam. I remember our family vacation some years back — a whirlwind two week affair from France to Holland with Belgium in between. In Paris we made an obligatory pilgrimage to her world famous museums. When you are exposed to so many masterpieces in a short period of time, the art overwhelms you. You don’t really remember individual pieces and everything becomes a blur after a day or two. Yet, one piece of painting stood out. I have seen this painting in countless art books, and I even saw it in my previous visit to Musee d’Orsay. Yet, somehow that day, it called out to me and drew me in.
 

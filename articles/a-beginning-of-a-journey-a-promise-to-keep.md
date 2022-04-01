@@ -15,7 +15,7 @@ withindate: 2
 
 # A Beginning of a Journey: A Promise to Keep
 
-December 2010
+*Monday, December 6, 2010*
 
 I picked up Amir, my husband, in the train station this evening. I told him about the CT scan that showed extensive metastasis all over the abdominal/pelvic area, including the liver. The biopsy results yesterday confirmed it is cancer. The results of the scan put it at Stage 4. I don’t need a doctor to tell me that there is no Stage 5; I have done enough research during the last couple of days to correctly guess what it is I am dealing with.
 

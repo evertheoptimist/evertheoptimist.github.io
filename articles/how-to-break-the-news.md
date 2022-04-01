@@ -13,7 +13,7 @@ date: 2012-12-09
 
 # How to Break the News?
 
-### Thursday, December 9 2010
+*Thursday, December 9, 2010*
 
 I need to think about how I am going to break the news to people. I would like to be open, honest, and direct about this. The current view is, this cancer is not considered curable, especially when it discovered at a late stage. This does not mean I will die soon — there are women with 30+ year remission. However, no one yet with this disease is considered cured regardless of how long a remission they have. Of course, in a few years, there might be a medical breakthrough. But, let’s deal with what we have now.
 

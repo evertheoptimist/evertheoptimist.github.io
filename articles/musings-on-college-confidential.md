@@ -14,7 +14,7 @@ date: 2012-04-19
 
 # Musings On College Confidential
 
-sunriseeast — 04–19–2012 01:17 AM
+*Thursday, April 19, 2012 at 01:17 AM*
 
 [Editor’s note: This is a post Hyeon made on College Confidential, followed by some of her on-thread replies.]
 
@@ -36,7 +36,7 @@ Today, I had my regular consult with Dr. S. I gave him another essay. I told him
 
 =========================
 
-sunriseeast — 04–19–2012 06:44 PM
+*Thursday, April 19, 2012 at 6:44 PM*
 
 thanks for such encouraging words.
 
@@ -58,7 +58,7 @@ If you want to know what they are, you too must send positive energy in my way t
 
 =========================
 
-sunriseeast — 04–20–2012 02:45 PM
+*Friday, April 20, 2012 at 2:45 PM*
 
 Oh, Creekland, you are a virgin (to this thread!)
 
@@ -66,7 +66,7 @@ Welcome to a one woman freak show!
 
 =========================
 
-sunriseeast — 04–23–2012 12:31 PM
+*Monday, April 23, 2012 at 12:31 PM*
 
 Well, since you all heard me whining last few days about my latest treatment setback, I would like to share something good.
 
@@ -80,7 +80,7 @@ His beaming face was priceless. As you all know, with the latest setback, I was 
 
 One benefit of an advanced stage cancer patient label is that now I can brag about my kids. People probably give me a pass on that — — “that poor thing. She HAD TO say something positive about her life once in awhile….” This is a new week beginning. I am up to whatever comes my way…..
 
-sunriseeast — 04–23–2012 04:27 PM
+*Monday, April 23, 2012 at 4:27 PM*
 
 Lilmom,
 

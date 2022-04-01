@@ -14,7 +14,7 @@ date: 2010-12-25
 
 # On Volcanoes and Stormy Seas
 
-**SATURDAY, DECEMBER 25, 2010**
+*Saturday, December 25, 2010*
 
 Hyeon posted the following on collegeconfidential.
 

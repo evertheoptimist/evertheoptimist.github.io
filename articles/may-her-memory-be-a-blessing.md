@@ -13,7 +13,7 @@ date: 2013-01-31
 
 # May Her Memory be a Blessing
 
-Hyeon Jeong Lee died at home in the early morning of January 31st 2013.
+Hyeon Jeong Lee died at home in the early morning of January 31st, 2013.
 
 It is my hope that her memory will be a blessing for all who read her posts.
 

@@ -14,6 +14,8 @@ date: 2011-06-20
 
 # Road Trip
 
+*Monday, June 20, 2011*
+
 Two days before I was scheduled to have an operation, I went to a bookstore to buy a few interesting pieces to read while I am recovering from a major surgery. The first thing that caught my eye was a travel book titled “1,000 Places To See Before You Die”. Having spent a few days gorging on one series of grim statistics after another on my survival odds, I had a gut reaction of dismay — Geez, they gotta come up with a more manageable list now for people like me! As optimistic as I am, I am also a realist. So, in the end I settled with “The Most Scenic Drives in America — 120 Spectacular Road Trips”.
 
 I love traveling. If I have to pick one passion is a hobby that fires me up more than anything else, it is traveling to remote corners of the world. The less trodden, the better. It’s not just the destination per se that excites me. Simply being out there on the road in an unfamiliar environment is all it takes to exhilarate me. The place does not have to be a world renowned tourist attraction. On the contrary, I enjoy driving through a back road and finding myself at a local café in a small town with no pretension of serving anybody other the locals. I am a voyeur at heart. When I am surrounded by the “ordinariness” of other people’s daily routines in an unfamiliar town, I feel like I am a peeping Tom peering into other people’s private room. There, I find a woman stepping out of a shower with water dripping from her freshly scrubbed bare face. This is a far more fascinating sight than any elaborately manicured tourist attractions decked out like a beauty pageant contestant with heavy makeup and fake smiles.

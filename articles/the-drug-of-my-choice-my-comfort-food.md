@@ -14,7 +14,9 @@ date: 2011-10-25
 
 # The Drug of My Choice, My Comfort Food
 
-### Email 10/25/11
+*Tuesday, October 25, 2011*
+
+### Email
 
 Last week, I started the second four week cycle of treatment for my cancer recurrence as a clinical trial patient at Memorial Sloan Kettering Cancer Center in New York City. I must admit this round of chemo treatment has not been easy, and this is saying a lot coming from someone who went through earlier in the year highly toxic 18 weekly chemo treatments without a break and without missing a beat. The new regimen consists of the main chemo drug, Doxil , infused once every four weeks, and an experimental immunotherapy drug administered weekly three times during a four week cycle. The main chemo drug part is easy. As it was the case last time, I seem to thrive on chemo infusion. The difficulty comes from the experimental immunotherapy drug. Within 5 hours of the shot, I develop severe chills and high fever (to 104 degree) on alternating cycles. It completely knocks the wind out of my sails for the next two days at a minimum. By the time I recover, it’s time again to get another weekly shot. And it goes on like this….. All this has been made more difficult by the fact that as a clinical trial guinea pig, after each immunotherapy shot and Doxil infusion, I had to stay there for 8 hours so that they can collect my blood for research purposes. By this time, I am under the full blown effects of the shot, and coming home is a major adventure.
 
