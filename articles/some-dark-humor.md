@@ -38,7 +38,7 @@ So, the doctor gave me loads of information about the upcoming chemotherapy. The
 
 One of the common themes was the weight loss issue. My BMI is already at the borderline between underweight and normal for my height, and everyone is trying to tell me how to minimize weight loss. They all warn that food wouldn’t taste the same, my taste may change drastically, and I should eat whatever I can hold down: all bets are off for healthy eating in this phase.
 
-Amir, who has been participating in all of these meetings and phone calls, finally mused out loud during a phone call with the Sharon, “Do you think her taste in men will also change?”
+Amir, who has been participating in all of these meetings and phone calls, finally mused out loud during a phone call with Sharon, “Do you think her taste in men will also change?”
 
 My sentiment? “Even if it does, I will keep it to myself until you successfully nurse me back to health!” Rather predatory of myself, but, hey, there is something to be said about a survival instinct!
 

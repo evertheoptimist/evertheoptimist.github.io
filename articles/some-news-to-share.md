@@ -38,19 +38,19 @@ Some additional messages for each of you:
 
 ![](./assets/1*ilewS25O7ELKcLerlzMSDw.png)
 
-**Mallary** : In case you are wondering. Yes, when I went to your dinner event on Dec 4, I already suspected ovarian cancer based on all the symptoms and some preliminary lab reports, though the final test results were not out yet. I suspected stage III (I did not know about the liver part then). Thanks for including us in such a lovely evening event. I really enjoyed every minute. We should get together soon again with Hal and Ellie (after my surgery, between my chemo’s).
+**Mallary:** In case you are wondering. Yes, when I went to your dinner event on Dec 4, I already suspected ovarian cancer based on all the symptoms and some preliminary lab reports, though the final test results were not out yet. I suspected stage III (I did not know about the liver part then). Thanks for including us in such a lovely evening event. I really enjoyed every minute. We should get together soon again with Hal and Ellie (after my surgery, between my chemo’s).
 
 ![](./assets/1*m59Dn1HRD5XioXATQdzpow.png)
 
-**Ditza**: Ha, I did one up on you. I think what I got trumps yours!!!!! But, seriously, your presence means so much for Amir. I am so grateful that you and Amir have each other. Amir will find such comfort in his close relationship with you and your family.
+**Ditza:** Ha, I did one up on you. I think what I got trumps yours!!!!! But, seriously, your presence means so much for Amir. I am so grateful that you and Amir have each other. Amir will find such comfort in his close relationship with you and your family.
 
 ![](./assets/1*WJ-WujMnqudD2CPt7bk8YA.png)
 
-**Diane**: You have always been such a good friend to all of us. Please keep Amir in your prayers.
+**Diane:** You have always been such a good friend to all of us. Please keep Amir in your prayers.
 
 ![Fran with Jon 2006](./assets/1*LlmRQo3AgMuS5oOshMZHEg.png)
 
-**Fran**: I am very grateful that Jon has your entire clan as a support network. He plays tough, but you and I both know what a sensitive softie he is inside. I am actually worried more about him than Daniel. I am so sorry that Jon’s last semester of high school will include watching his mother go through a grueling regimen of chemotherapy. The fact that you are in his life is such a source of relief for me. Thank you.
+**Fran:** I am very grateful that Jon has your entire clan as a support network. He plays tough, but you and I both know what a sensitive softie he is inside. I am actually worried more about him than Daniel. I am so sorry that Jon’s last semester of high school will include watching his mother go through a grueling regimen of chemotherapy. The fact that you are in his life is such a source of relief for me. Thank you.
 
 One thing though, Fran, if you are facebook friends with Jaewon or anyone in my Korean family, please do NOT post anything that they can read. I am not letting my Korean relatives know about this yet (long story, I will tell you later).
 

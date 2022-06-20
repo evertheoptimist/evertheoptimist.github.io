@@ -44,6 +44,6 @@ response to lastminute,
 
 Yes, the whole issue of receiving help is a tough one. I have always wanted to be on the giving end, not the receiving end. It’s not easy for me.
 
-We have very good friends (a couple) who go back a long way with us. The wife had breast cancer a few years ago. When they heard about my condition, the husband told Amir, “Hyeon is just like my wife. In all likelihood, she won’t seek out or easily accept help. Let her know that the help is NOT for her; it’s for YOU. When my wife was going through chemo, predictably she said no when neighbors offered to bring dinner. Finally, I had to say, ’I do all the cooking here in this family.’ That was that.”
+We have very good friends (a couple) who go back a long way with us. The wife had breast cancer a few years ago. When they heard about my condition, the husband told Amir, “Hyeon is just like my wife. In all likelihood, she won’t seek out or easily accept help. Let her know that the help is NOT for her; it’s for YOU. When my wife was going through chemo, predictably she said no when neighbors offered to bring dinner. Finally, I had to say, ‘I do all the cooking here in this family.’ That was that.”
 
 One really good thing that came out of this disease is that I learned to let my guard down. Mentally, I used to be like a bug with an exoskeleton: independent, self-sufficient, self-reliant — the whole nine yards. I realize now that that’s a form of arrogance. It is also a grace to share your vulnerability with others. OK. I am still learning — this is not easy, but I am making progress.

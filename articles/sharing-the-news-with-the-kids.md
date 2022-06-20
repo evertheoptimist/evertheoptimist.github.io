@@ -36,17 +36,17 @@ I shared a straightforward facts. The likelihood that it will be a stage 4 ovari
 
 Beside, these are very intelligent kids. They can easily do their own research. When they do, they will see these grim numbers. I need to proactively debrief them, and explain to them why I believe these stats do not apply to me. I have a very rational, logical and fact based ground for optimism, and they needed to hear that from me. I laid out my case on why I will be an extreme outlier of the current statistical curve.
 
-(1) My age: the compiled statistics has a median age of 65 at the time of diagnosis
+1.  My age: the compiled statistics has a median age of 65 at the time of diagnosis
 
-(2) My baseline health: other than cancer, I am perfectly healthy. Not only I am better equipped to handle this disease, I am likely to handle chemotherapy well.
+2.  My baseline health: other than cancer, I am perfectly healthy. Not only I am better equipped to handle this disease, I am likely to handle chemotherapy well.
 
-(3) My socioeconomic advantages: it’s a well known fact that those who are socioeconomically disadvantaged fair poorly. Hence average stats that include these cases underpredict my odds.
+3.  My socioeconomic advantages: it’s a well known fact that those who are socioeconomically disadvantaged fair poorly. Hence average stats that include these cases underpredict my odds.
 
-(4) Access to the cutting edge medical care: the population the stats uses as a baseline includes women in square states with no easy access to top most medical experts. I already learned that the the skill and expertise of the gynecologic oncologist who performs the surgery doubles the odds of good prognosis for women with my condition.
+4.  Access to the cutting edge medical care: the population the stats uses as a baseline includes women in square states with no easy access to top most medical experts. I already learned that the the skill and expertise of the gynecologic oncologist who performs the surgery doubles the odds of good prognosis for women with my condition.
 
-(5) My attitudes, emotional resilience and discipline: More and more research confirms that the patient’s attitudes and emotional and intellectual resources are a huge variable. I have no shortage of what it takes to emerge whole and intact.
+5.  My attitudes, emotional resilience and discipline: More and more research confirms that the patient’s attitudes and emotional and intellectual resources are a huge variable. I have no shortage of what it takes to emerge whole and intact.
 
-(6) By nature, the survival statistics are complied with women who have been diagnosed long time ago (over 10 years). Meanwhile, medical science is evolving rapidly. Already, promising treatment breakthroughs have been made and more are on the horizon. As such, the stats compiled for women in the past significantly underestimate my odds.
+6.  By nature, the survival statistics are complied with women who have been diagnosed long time ago (over 10 years). Meanwhile, medical science is evolving rapidly. Already, promising treatment breakthroughs have been made and more are on the horizon. As such, the stats compiled for women in the past significantly underestimate my odds.
 
 I explained all this to the kids line by line. I also told them that this journey is a marathon, not a sprint, and we all need to pace ourselves. I told them that I would like them to live a normal life, doing things that they enjoy, and not altering their plans much. I told Daniel that there is no reason to change his summer plans because of this. I intend to be around for decades.
 

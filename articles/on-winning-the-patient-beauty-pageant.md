@@ -28,6 +28,8 @@ After all, other than those who devote their lives to help and support others se
 
 My feelings towards those missing in action is more in the line of anthropological and academic curiosity. I would love to be able to analyze their psyche. Maybe they are uncomfortable dealing with “CANCER”, maybe they think I am falling apart, and too afraid to see me. I think this probably covers most of it.
 
+---
+
 *Saturday, January 15, 2011 at 11:13 PM*
 
 Chemo week 2: still no side effects so far. But too early to tell if I am going to get away scott free again. So far no need for anti nausea medication. A very good friend of mine accompanied me to this chemo. It’s not easy for my husband to take every Friday off. She said: I am your driver today. I said, “No you are my chaperon. You should see me flirt with everyone and anyone shamelessly, regardless of the gender and age: doctors, nurses, aides — everyone”. I intend to win a beauty pageant for cancer patients. Gotta charm all the judges and audience alike from the day one.
